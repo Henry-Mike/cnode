@@ -5,6 +5,8 @@ module.exports = {
 
     'GET /topic/:id': async (ctx, next) => {
         let id = ctx.params.id;
-        ctx.render('topic.html', id=id);
+        ctx.render('topic.html', {
+            id: id
+        });
     }
 }

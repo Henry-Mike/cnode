@@ -1,0 +1,47 @@
+{% extends "base.html" %}
+
+{% block script %}
+<script>
+    function showError(resp) {
+        resp.json().then(function (result) {
+            console.log('Error: ' + result.message);
+        });
+    }
+    $(function () {
+        var vm = new Vue({
+            el: '#app',
+            data: {
+                topics: [],
+            },
+            created: function () {
+                this.init();
+            },
+            methods: {
+                init: function () {
+                    var that = this;
+                    that.$resource('/api/v1/topic/' + $('#hide').text()).get().then(function (resp) {
+                        resp.json().then(function (result) {
+                            that.topics = [result];
+                        });
+                    }, function (resp) {
+                        showError(resp)
+                    })
+                }
+            }
+        })
+        window.vm = vm;
+    })
+</script>
+{% endblock %}
+
+{% block main %}
+<div id="app">
+    <div class="container">
+        <h3 v-text="topics[0].title"></h3>
+        <div v-html="topics[0].content"></div>
+    </div>
+</div>
+<div id="hide" style="display:none">{{ id }}</div>
+{% endblock %}
+
+</html>
