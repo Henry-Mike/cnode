@@ -1,0 +1,685 @@
+{
+    "success": true,
+    "data": [
+        {
+            "id": "5bffb25cd6104a4f803a2dfb",
+            "author_id": "4f3e074762b5c6a270012916",
+            "tab": "share",
+            "content": "<div class=\"markdown-text\"><p>第13届D2前端技术论坛（D2前端技术论坛 2018）将于2019年1月6日在杭州和达希尔顿逸林酒店举办。\n大会官方网站：<a href=\"http://d2forum.alibaba-inc.com\">http://d2forum.alibaba-inc.com</a> 如果你对本次会议感兴趣，立即访问报名吧！</p>\n<p>历时近 10 年的发展,成功举办了 12 届，D2 为国内前端领域的开发者和设计者，以及所有对前端技术感兴趣的人提供一个交流的机会，以技术会友， 一起分享技术的乐趣,探讨行业的发展。</p>\n<p><img src=\"//static.cnodejs.org/FkGXEj1RCFTyIZt0loNO8Pi8Zj_-\" alt=\"D2-1st.jpg\"></p>\n<p>本次大会将设置3个分场，6大主题方向。将邀请近30位演讲嘉宾，给大家带来最前沿，最实用，最有价值的演讲，值得你期待！\n如果你想参加本次大会，可以访问大会网站（<a href=\"http://d2forum.alibaba-inc.com\">http://d2forum.alibaba-inc.com</a>）立即购买门票。</p>\n<h3>大会门票</h3>\n<p>本次大会一共设置四个类型的门票：</p>\n<ul>\n<li>早鸟票（459元）</li>\n<li>早鸟拼团票 （3人成团，只需要399元）</li>\n<li>普通票 （559元）</li>\n<li>晚鸟票 （659元）</li>\n</ul>\n<p>现在就可以购买早鸟票或者早鸟拼团票，数量有限，购买时间也有限制，如果你对本次会议感兴趣，那就赶紧拿起手机访问大会网站购票吧：</p>\n<p>第13届D2前端技术论坛将于2019年1月6日在杭州举办！抢票进行中…  <a href=\"https://d2forum.alibaba-inc.com\">https://d2forum.alibaba-inc.com</a></p>\n<p>2019年1月6日，期待与你在D2现场相见！</p>\n</div>",
+            "title": "第13届D2前端技术论坛将于2019年1月6日在杭州举办，6大主题方向等你来听",
+            "last_reply_at": "2018-11-29T11:16:11.366Z",
+            "good": false,
+            "top": true,
+            "reply_count": 2,
+            "visit_count": 585,
+            "create_at": "2018-11-29T09:33:16.969Z",
+            "author": {
+                "loginname": "lovevfp",
+                "avatar_url": "https://avatars.githubusercontent.com/u/285661?v=3&s=120"
+            }
+        },
+        {
+            "id": "5bd4772a14e994202cd5bdb7",
+            "author_id": "504c28a2e2b845157708cb61",
+            "tab": "share",
+            "content": "<div class=\"markdown-text\"><p>2018年10月27日晚上，突然收到服务器不能访问的告警通知，拜托了狼叔 <a href=\"/user/i5ting\">@i5ting</a> 帮忙看看，结果登不上也ping不通。\n后来收到短信，发现是被ucloud封了，短信内容如下：</p>\n<blockquote>\n<p>【UCloud】尊敬的UCloud用户，您的IP：123.59.77.142  存在URL ：<a href=\"https://cnodejs.org/topic/57239bce5a26c4a841ecbf01\">https://cnodejs.org/topic/57239bce5a26c4a841ecbf01</a> （详细信息请查看邮箱）包含违禁内容（包括但不限于翻墙等），违反了国家有关法律法规。目前依主管单位要求，对您的IP予以封停，请您尽快处理违规内容。待处理完成后请联系技术支持重新开启业务。[4000188113]</p>\n</blockquote>\n<p>然后联系了ucloud的客服，一下就打通了，对方态度挺好处理问题也快。ucloud说是运营商那边封的，不是他们的检测机制。所以需要联系运营商解决。\n考虑到各位亲爱的网友们的行为我无法控制，那么一直跟越来越严格的审查系统对抗只会让自己疲惫，所以我就站点迁到国外。来到了aws jp。</p>\n<p>我大致测了测，电信和移动的访问速度非常快，100ms以内，联通会慢一点，400ms以内吧。</p>\n<p>建议翻墙访问。</p>\n</div>",
+            "title": "服务器迁移至 aws 日本机房",
+            "last_reply_at": "2018-11-29T08:18:48.397Z",
+            "good": false,
+            "top": true,
+            "reply_count": 90,
+            "visit_count": 7181,
+            "create_at": "2018-10-27T14:33:14.694Z",
+            "author": {
+                "loginname": "alsotang",
+                "avatar_url": "https://avatars1.githubusercontent.com/u/1147375?v=4&s=120"
+            }
+        },
+        {
+            "id": "5c01df05be1b120abac5ea50",
+            "author_id": "5a66101f9d371d4a059eed19",
+            "tab": "share",
+            "content": "<div class=\"markdown-text\"><h2>本站服务地址 <a href=\"https://www.cngrok.com\">https://www.cngrok.com</a></h2>\n<p>本程序暂兼容到PC端，如果您是移动端打开，不好意思，哪可能是样式错乱了 哇哈哈哈哈！～\n每个故事的开始都有一个背景，一直发现某宝领红包活动，无奈懒的去实体店支付。\n浪费了好多$$$ 有木有 ！！！\n本着我为人人，人人为我的精神。于是本系统就在这个夜晚诞生了。\n主要提供 红包二维码，某宝扫码 消费充值, 余额提现。</p>\n<h1>使用说明</h1>\n<ul>\n<li>微信扫码登录</li>\n<li>登录之后，首页看到大大的红包二维码 有木有，</li>\n<li>赶快打开支付宝扫码领取红包。（好几块 有木有 哇哈哈哈）</li>\n<li>点击页面充值按钮，输入要充值的金额 设置成领红包的整数就好。（本程序不是来套现哦，so， 最大金额设置最多充值20元）</li>\n<li>然后出现二维码，使用某宝扫码支付即可，这个时候你回发现刚刚领的红包，这个时候已经可以使用啦。</li>\n<li>充值成功之后，那就开始提现吧。 本着我为人人，人人为我的精神。所以扫我的红包码都不要手续费哦。</li>\n<li>因对账需要，所有提现的时间均设置24小时到账 哇哈哈哈</li>\n</ul>\n<h1>本站服务地址 <a href=\"https://www.cngrok.com\">https://www.cngrok.com</a></h1>\n<h2>如果您看到啦此贴 引起您的不适，请您关闭此页面 谢谢🙏。但请不要喷我</h2>\n</div>",
+            "title": "薅社会羊毛，使用nodejs 搞的提现系统，快来撸 红包。",
+            "last_reply_at": "2018-12-01T03:49:16.744Z",
+            "good": false,
+            "top": false,
+            "reply_count": 1,
+            "visit_count": 79,
+            "create_at": "2018-12-01T01:08:21.685Z",
+            "author": {
+                "loginname": "wlijie",
+                "avatar_url": "https://avatars2.githubusercontent.com/u/14119649?v=4&s=120"
+            }
+        },
+        {
+            "id": "5c01f6c7d6104a4f803a3575",
+            "author_id": "58ea2cec3145ae3f25fe60ac",
+            "tab": "ask",
+            "content": "<div class=\"markdown-text\"><p>有这么这个api</p>\n<pre class=\"prettyprint\"><code>curl --request PATCH \\\n  --url https:&#x2F;&#x2F;test.com&#x2F;api&#x2F;v1&#x2F;money \\\n  --header &#x27;content-type: application&#x2F;json&#x27; \\\n  --data &#x27;{\n\t&quot;amount&quot;: 100.00\n}&#x27;\n</code></pre><ul>\n<li>amount只支持带有两位小数点的数字</li>\n<li>这样是不行的🙅‍♂️ { “amount”: “100.00” }</li>\n<li>这样也是不行的🙅 { “amount”: 100 }</li>\n<li>这样是可以的👌 { “amount”: 100.01 }</li>\n</ul>\n<h4>问题：</h4>\n<ul>\n<li>在请求api的时候如何把 100 变成 100.00 ?</li>\n</ul>\n</div>",
+            "title": "nodejs里面如何把整数100变成浮点数100.00 放到请求里面？",
+            "last_reply_at": "2018-12-01T03:20:37.314Z",
+            "good": false,
+            "top": false,
+            "reply_count": 1,
+            "visit_count": 35,
+            "create_at": "2018-12-01T02:49:43.254Z",
+            "author": {
+                "loginname": "CNBlackJ",
+                "avatar_url": "https://avatars0.githubusercontent.com/u/21023227?v=4&s=120"
+            }
+        },
+        {
+            "id": "5bffb19bbe1b120abac5e378",
+            "author_id": "4efc278625fa69ac6900044d",
+            "tab": "ask",
+            "content": "<div class=\"markdown-text\"><p>如题。最近公司给了个任务，要尽可能地加密node.js，因为部分系统要放在友商的服务器上运行，不想代码泄露，我把node中核心的业务代码加密后放进c++里，通过调用时输出，并通过判断调用它的node文件的md5值强制调用的node文件不可修改，否则启动报错。但遇到一个关键问题是，如何在c++里判断哪个node文件调用了它，如果能做到这一步就完美了。当然如果实在做不到，我只能在启动时强制清除所有node进程，只保留我自己的node项目进程…希望大家给我提一点思路…</p>\n</div>",
+            "title": "请问下如何在用c++写的addons中获取调用它的node文件所在的名称与路径？",
+            "last_reply_at": "2018-12-01T03:00:55.284Z",
+            "good": false,
+            "top": false,
+            "reply_count": 11,
+            "visit_count": 260,
+            "create_at": "2018-11-29T09:30:03.525Z",
+            "author": {
+                "loginname": "wldlzt",
+                "avatar_url": "//gravatar.com/avatar/b53aa550eb26aaab7ad98cfac654acd1?s=48"
+            }
+        },
+        {
+            "id": "5c011068d6104a4f803a3429",
+            "author_id": "5b403ba4e374eeab6929d4bc",
+            "tab": "ask",
+            "content": "<div class=\"markdown-text\"><p>const express     = require(‘express’);\nconst app = express();\nconst session     = require(‘express-session’);</p>\n<p>app.use(session({\nsecret:  ‘key’, // 对session id 相关的cookie 进行签名\nresave: false,\nsaveUninitialized: true, // 是否保存未初始化的会话\ncookie: {\nmaxAge: 100000, // 设置 session 的有效时间，单位毫秒\nsecure: true\n},\n}));</p>\n<p>app.post(’/a’,function(req, res) {\n<a href=\"http://req.session.name\">req.session.name</a> = ‘Thomas’;\n});</p>\n<p>app.post(’/b’, function(req, res) {\nconsole.log(<a href=\"http://req.session.name\">req.session.name</a>) //undefined\n});</p>\n<p>请教各路大神，类似这种情况改如何解决？</p>\n</div>",
+            "title": "express-session中间件session获取不到问题",
+            "last_reply_at": "2018-12-01T02:41:26.958Z",
+            "good": false,
+            "top": false,
+            "reply_count": 2,
+            "visit_count": 88,
+            "create_at": "2018-11-30T10:26:48.223Z",
+            "author": {
+                "loginname": "mymxdcxy",
+                "avatar_url": "https://avatars1.githubusercontent.com/u/40028167?v=4&s=120"
+            }
+        },
+        {
+            "id": "596eb7768f05de0819fdb301",
+            "author_id": "538ebff9c3ee0b58208376c7",
+            "tab": "ask",
+            "content": "<div class=\"markdown-text\"><p>如题。知道内情的进来说说？<a href=\"/user/alsotang\">@alsotang</a> and <a href=\"/user/i5ting\">@i5ting</a>？</p>\n</div>",
+            "title": "听说明年2月之前要禁止所有个人用户使用VPN，是真的吗？",
+            "last_reply_at": "2018-11-30T17:11:24.506Z",
+            "good": false,
+            "top": false,
+            "reply_count": 38,
+            "visit_count": 6336,
+            "create_at": "2017-07-19T01:35:50.929Z",
+            "author": {
+                "loginname": "zhanzhenzhen",
+                "avatar_url": "https://avatars3.githubusercontent.com/u/731796?v=4&s=120"
+            }
+        },
+        {
+            "id": "5bfd081abe1b120abac5d63b",
+            "author_id": "594b20239079357b642b2a2b",
+            "tab": "share",
+            "content": "<div class=\"markdown-text\"><p>rt,js基于对象写起来真的比java爽太多了。</p>\n</div>",
+            "title": "跟js比起来，发现java真的好啰嗦",
+            "last_reply_at": "2018-11-30T15:26:30.698Z",
+            "good": false,
+            "top": false,
+            "reply_count": 19,
+            "visit_count": 1109,
+            "create_at": "2018-11-27T09:02:18.540Z",
+            "author": {
+                "loginname": "chunjiu",
+                "avatar_url": "https://avatars2.githubusercontent.com/u/24645857?v=4&s=120"
+            }
+        },
+        {
+            "id": "5bffc3cdbe1b120abac5e443",
+            "author_id": "5bf7fa796718ed3ca074c3e5",
+            "tab": "ask",
+            "content": "<div class=\"markdown-text\"><p>在使用 <a href=\"https://www.npmjs.com/package/walk\">node-walk</a> 的过程中发现其性能相当的差，linux 还能接受，但是在 windows 上跑的时候性能极其差。</p>\n<p>我的需求简单来说就是遍历目录，递归读取目录中所有文件内容之后根据文件内容做过滤，最后生成一个大数组。不知是否有好的解决方案或者性能好的原生包？</p>\n</div>",
+            "title": "请问是否有 nodejs 的基于事件发布的文件内容遍历包? 最好是 c++ 原生模块",
+            "last_reply_at": "2018-11-30T13:55:43.939Z",
+            "good": false,
+            "top": false,
+            "reply_count": 1,
+            "visit_count": 225,
+            "create_at": "2018-11-29T10:47:41.356Z",
+            "author": {
+                "loginname": "GopherJ",
+                "avatar_url": "https://avatars1.githubusercontent.com/u/33961674?v=4&s=120"
+            }
+        },
+        {
+            "id": "5c00bc0ad6104a4f803a3207",
+            "author_id": "59795c728f0313ff0d08d864",
+            "tab": "ask",
+            "content": "<div class=\"markdown-text\"><p>node怎么把png转成pdf  有没有使用流的方式的</p>\n<p>也请大神告诉我一下pdf原理</p>\n<p>请教大神啊！</p>\n</div>",
+            "title": "node怎么把png转成pdf  有没有使用流的方式的",
+            "last_reply_at": "2018-11-30T09:49:21.596Z",
+            "good": false,
+            "top": false,
+            "reply_count": 1,
+            "visit_count": 153,
+            "create_at": "2018-11-30T04:26:50.393Z",
+            "author": {
+                "loginname": "SunGg12138",
+                "avatar_url": "https://avatars0.githubusercontent.com/u/16427275?v=4&s=120"
+            }
+        },
+        {
+            "id": "5c00a36fd6104a4f803a3157",
+            "author_id": "5c00a182be1b120abac5e6e5",
+            "tab": "ask",
+            "content": "<div class=\"markdown-text\"><p>在 node 中连接 mysql 数据库一直报错，</p>\n<pre class=\"prettyprint\"><code>const mysql = require(&#x27;mysql&#x27;)\nconst pool = mysql.createPool({\n  host     :  &#x27;127.0.0.1&#x27;,\n  user     :  &#x27;root&#x27;,\n  password :  &#x27;123456&#x27;,\n  database :  &#x27;mysql&#x27;,\n})\n\npool.getConnection(function(err, connection) {\n  if (err) {\n    return err\n  } else {\n    connection.query(sql, values, function(error, results, fields) {\n      if (error) {\n        return error\n      } else {\n        return results\n      }\n      connection.release()\n    })\n  }\n})\n</code></pre><p><img src=\"//static.cnodejs.org/Fit8g9zl5bMSeCZ383utVjnlbAsh\" alt=\"image.png\">\n我的 mysql 服务已经开启。\n找了很久没找到问题，求助大佬</p>\n</div>",
+            "title": "node 连接 mysql 数据库报错",
+            "last_reply_at": "2018-11-30T09:19:30.077Z",
+            "good": false,
+            "top": false,
+            "reply_count": 4,
+            "visit_count": 314,
+            "create_at": "2018-11-30T02:41:51.346Z",
+            "author": {
+                "loginname": "Guoch0526",
+                "avatar_url": "https://avatars1.githubusercontent.com/u/19582352?v=4&s=120"
+            }
+        },
+        {
+            "id": "5c00b70ad6104a4f803a3200",
+            "author_id": "57d216e13d3520a5387c2b53",
+            "tab": "ask",
+            "content": "<div class=\"markdown-text\"><p>不想在console.log了</p>\n</div>",
+            "title": "大家好，问个问题，你们都用什么调试工具啊",
+            "last_reply_at": "2018-11-30T08:09:07.738Z",
+            "good": false,
+            "top": false,
+            "reply_count": 4,
+            "visit_count": 204,
+            "create_at": "2018-11-30T04:05:30.435Z",
+            "author": {
+                "loginname": "a69694510",
+                "avatar_url": "https://avatars1.githubusercontent.com/u/20507053?v=4&s=120"
+            }
+        },
+        {
+            "id": "5c009022d6104a4f803a3068",
+            "author_id": "5aba15c3a2f3b49869cb2da2",
+            "tab": "ask",
+            "content": "<div class=\"markdown-text\"><p>示例如下：\n<img src=\"//static.cnodejs.org/Fhm0mgJ4fqPwh-yanXV2DXaC3FHa\" alt=\"1543479990(1).jpg\"></p>\n<p>PM2重启时能不能自定义这个restart的次数？查看了文档好久但是都没有看到相关信息。求指导？PM2 版本是V3.2.2</p>\n</div>",
+            "title": "PM2重启时能不能自定义重启次数？",
+            "last_reply_at": "2018-11-30T07:59:02.182Z",
+            "good": false,
+            "top": false,
+            "reply_count": 2,
+            "visit_count": 247,
+            "create_at": "2018-11-30T01:19:30.042Z",
+            "author": {
+                "loginname": "zurmokeeper",
+                "avatar_url": "https://avatars2.githubusercontent.com/u/25943604?v=4&s=120"
+            }
+        },
+        {
+            "id": "5b8de66137b3005a0b0e6b3f",
+            "author_id": "5b8de41bbf116a8c0e42579f",
+            "tab": "share",
+            "content": "<div class=\"markdown-text\"><p>Egg.js入门视频教程主要讲了Egg的环境搭建   egg的控制器      egg服务  egg中间件   egg路由 egg扩展   egg模板引擎  egg cookie   egg session</p>\n<p><strong>Eggjs 视频教程百度网盘分享接</strong>： <a href=\"https://pan.baidu.com/s/1t6XHpny8-H8mApLkzcsS8w\">https://pan.baidu.com/s/1t6XHpny8-H8mApLkzcsS8w</a></p>\n<p><strong>或者此连接Egg.js视频教程10讲入门链接</strong>： <a href=\"https://pan.baidu.com/s/1-jdCXKGgfk9yI8xJOOhPhg\">https://pan.baidu.com/s/1-jdCXKGgfk9yI8xJOOhPhg</a>  <strong>密码</strong>：4b6i</p>\n<p><strong>来源</strong>  <a href=\"https://cnodejs.org/topic/5b7ac9c7c52ad1482eb940bf\">https://cnodejs.org/topic/5b7ac9c7c52ad1482eb940bf</a></p>\n<p>希望老铁门能喜欢\n<img src=\"//static.cnodejs.org/FoPZNWCMpHqWFAb2QDns-UhIMX-3\" alt=\"egg01.png\"></p>\n<p><img src=\"//static.cnodejs.org/Fu4_-OevpWiKHFqeEGBOW53MCdnE\" alt=\"egg02.png\"></p>\n<p><img src=\"//static.cnodejs.org/FtOEkaeRTUNyuWE2mhvazrxPc6cd\" alt=\"egg03.png\"></p>\n<p><img src=\"//static.cnodejs.org/FtJsuDe3kbcNYWWcJyfxuE08wVs5\" alt=\"egg05.png\"></p>\n<p><img src=\"//static.cnodejs.org/Fp8erhbPkGZrsYFsd-gxn2z4Gssb\" alt=\"222.png\"></p>\n<p><img src=\"//static.cnodejs.org/FhCAuCKVwbQnTCJWtkGKv6ZR8toN\" alt=\"06.png\"></p>\n</div>",
+            "title": "Egg.js视频教程-Eggjs入门视频教程网盘免费分享-10讲入门基础希望老铁门能喜欢",
+            "last_reply_at": "2018-11-30T06:36:09.575Z",
+            "good": false,
+            "top": false,
+            "reply_count": 56,
+            "visit_count": 5781,
+            "create_at": "2018-09-04T01:56:49.179Z",
+            "author": {
+                "loginname": "zlyuanteng",
+                "avatar_url": "https://avatars0.githubusercontent.com/u/42952042?v=4&s=120"
+            }
+        },
+        {
+            "id": "5b5e78f5673571454c633cea",
+            "author_id": "5b56866ae740336c7bedb345",
+            "tab": "share",
+            "content": "<div class=\"markdown-text\"><p><strong>koa2实战项目介绍（真全栈）：</strong></p>\n<p><strong>Nodejs+koa2实战视频教程</strong>从零开始一步一步让你学会Koa基础以及用用<strong>Koa开发项目</strong>，本教程涉及 用户权限判断 、<strong>验证码</strong> 、分页、多级分类、<strong>ueditor可视化富文本编辑器</strong>、图片上传、<strong>底层DB库封装</strong>、<strong>扩展art-template的核心方法、<strong>ajax改变状态、ajax排序、以及赠送的</strong>Socket.io机器人</strong> 、Socket.io多人聊天室、<strong>Socket.io群聊</strong>、前后端分离 <strong>RESTful API Api</strong>接口、购买域名 服务器、域名备案、<strong>nginx负载均衡</strong>、<strong>域名解析部署nodejs程序</strong>、Nodejs进程管理器pm2模块、Koa操作<strong>mysql数据库</strong></p>\n<p><strong>地址：</strong> <a href=\"https://www.itying.com/goods-800.html\">Koa2实战视频教程下载地址点我</a></p>\n<p><strong>2018 Nodejs+Koa2入门实战视频教程百度网盘下载地址（41讲免费基础下载地址）：</strong></p>\n<p><a href=\"https://pan.baidu.com/s/1KNaA97kGwNhavch5rP_G7w\">https://pan.baidu.com/s/1KNaA97kGwNhavch5rP_G7w</a></p>\n</div>",
+            "title": "Nodejs+koa2实战视频教程【87讲】--Koa2+Nodejs+MongoDb打造企业级CMS前后端全栈项目实战视频教程",
+            "last_reply_at": "2018-11-30T06:35:18.775Z",
+            "good": false,
+            "top": false,
+            "reply_count": 54,
+            "visit_count": 9019,
+            "create_at": "2018-07-30T02:33:25.113Z",
+            "author": {
+                "loginname": "songsunli",
+                "avatar_url": "https://avatars1.githubusercontent.com/u/41601667?v=4&s=120"
+            }
+        },
+        {
+            "id": "5c00d79fd6104a4f803a328c",
+            "author_id": "511350f6df9e9fcc58856443",
+            "tab": "share",
+            "content": "<div class=\"markdown-text\"><h2>前言</h2>\n<p>本期分享意在优化node服务的性能，侧重应用运行信息收集这一块，寻找适合dev们使用的APM。因此，我们对一些支持 Node.js 的 APM 软件做了一次调研。\n在分别介绍每个软件之前，我们要先阐述使用这些软件的目的：它可以发现慢的 http 请求，并且可以查看当时的 Node 服务状态（包括内存 CPU 占用状态），database 状态（这里是 mongodb），帮助 dev 准确分析出请求处理缓慢的原因。</p>\n<p>下文的体验报告将以此目标为标准进行评价。</p>\n<h2>软件列表</h2>\n<p>本次体验的 APM 软件有：</p>\n<table>\n<thead>\n<tr>\n<th>名称</th>\n<th>介绍</th>\n<th>开源/收费情况</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>atatus</td>\n<td>支持多种语言，包括前端</td>\n<td>不开源，收费</td>\n</tr>\n<tr>\n<td>newrelic</td>\n<td>支持多种语言，包括前端</td>\n<td>开源，收费</td>\n</tr>\n<tr>\n<td>keymetrics</td>\n<td>pm2, Node 应用管理器</td>\n<td>开源，限额免费</td>\n</tr>\n<tr>\n<td>Pandora.js</td>\n<td>阿里出品，Node 应用管理器</td>\n<td>开源，免费（自建服务）</td>\n</tr>\n<tr>\n<td>alinode</td>\n<td>Node 底层的监控</td>\n<td>开源，免费（阿里云上配置实例）</td>\n</tr>\n<tr>\n<td>statsd + graphite + grafana</td>\n<td>监控三件套，开发自由度高</td>\n<td>开源，自建服务</td>\n</tr>\n</tbody>\n</table>\n<h2>一、atatus</h2>\n<p>atatus 提供了 npm 工具包 <a href=\"https://www.npmjs.com/package/atatus-node\">atatus-node</a> 用于监控数据收集，具体配置见<a href=\"https://www.atatus.com/getting-started/node-js\">官方文档</a>。</p>\n<p>使用报告：不是 100 % 的采样率，没有收集到官网宣传的各种维度的信息，使用 Koa 框架，基本上只能看到总的 http response time。\n<img src=\"//static.cnodejs.org/FtVD_nNNDHFqX49Dy5TrBJ9O89iM\" alt=\"atatus.png\"></p>\n<h2>二、newrelic</h2>\n<p>网址 <a href=\"https://newrelic.com/\">https://newrelic.com/</a> ，和 atatus 基本相同，也提供 npm 工具包 newrelic。<br>\n<img src=\"//static.cnodejs.org/FpfuUd9aAT7cth32qRD--Pp2b3Is\" alt=\"newrelic.png\"></p>\n<h2>三、keymetrics</h2>\n<p>偏向应用生命周期管理，可以看到 Node 服务的 cpu 内存等占用情况，有错误（crash）收集功能，国内访问很卡。</p>\n<h2>四、Pandora.js</h2>\n<p>Pandora.js 是一个 Node.js 应用监控管理器。它集成了多种类型的能力诸如：监控、链路追踪、调试、进程管理等等。</p>\n<p>它是个很有趣的东西，总结来说是它很强大但是还不够成熟，包括 Pandora 自身和整个 Node 生态都不成熟。</p>\n<h3>（一）、应用管理</h3>\n<p>可以对标 PM2，不赘述。</p>\n<h3>（二）、应用度量</h3>\n<p>有操作系统指标，包含 Load、CPU、内存、磁盘、网络、TCP 等各种指标；<br>\n有 Node.js 指标（内存占用）；<br>\n还可以自定义指标，类似 statsd 做的事情，但是后续的存储和展示嘛，非常简单，没有 statsd + graphite + grafana 好用。</p>\n<h3>（三）、链路追踪</h3>\n<p>这个是 Pandora 提供的比较“先进”的功能，链路追踪理论上可以分析出一个 http 哪里耗时多，例如一个 get 请求，做的事情有：查询 db、调用第三方服务等。链路追踪会记录每一个环节的耗时：</p>\n<p><img src=\"//static.cnodejs.org/Fn00aITwAYnscmF-LXDyoIUvit3C\" alt=\"链路追踪.png\"></p>\n<p>链路追踪的实现依赖了 Node 的一个实验性特性 async_hooks，因为是新特性，目前还有很多问题没有解决，例如 mongoose 和 superagent 两个工具包的 Promise 实现方式会导致 async_hooks，具体可以见我们在 Pandora 提的 <a href=\"https://github.com/midwayjs/pandora/issues/221\">issue</a> ，也就是说，如果你刚好用了这两个框架，Pandora 链路追踪就失效了。</p>\n<h2>五、alinode</h2>\n<p>Node.js 性能平台<a href=\"https://cn.aliyun.com/product/nodejs\"> https://cn.aliyun.com/product/nodejs </a>，alinode 是在  node runtime 层面做的应用信息收集，而不是上述各个框架在应用层进行信息收集，所以 alinode 可以监控到进程数据，堆快照、堆时间线、CPU Profile、GC Trace 等非常底层的信息，如果你的应用性能瓶颈在 Node 服务本身，使用该工具会有很大的帮助，如果你的应用性能瓶颈在 DB，那应该是用 DB 监控工具。</p>\n<h2>六、statsd + graphite + grafana</h2>\n<p>这个三件套有意思的是，监控指标是开发自己定义的，考拉用这三件套监控请求处理时间，记录每个请求的处理时间。<br>\n这样在 grafana 上可以快速看出当前应用的请求量与趋势，已经快速分析哪些接口缓慢。</p>\n<p>接口访问量的趋势变化：</p>\n<p><img src=\"//static.cnodejs.org/FrGtqudeYlEJjhzlVXHLJdzQiRdc\" alt=\"statsd1.png\"></p>\n<p>处理最慢的接口：</p>\n<p><img src=\"//static.cnodejs.org/Fubee590vJj8Ia9IgXVxruvjZqKk\" alt=\"statsd2.png\"></p>\n<p>这套工具的优势在于 grafana， 提供了非常直观的图表。<br>\n这套工具的搭建方法,我们后续再继续深入讨论。</p>\n<h2>总结</h2>\n<h2>回到我们的目标“帮助 dev 准确分析出请求处理缓慢的原因”，理论上最贴合这个目标的是 Pandora.js ，但是我们还需要再等等，等它成熟。<br>\n最简单而强大的是  <strong>statsd + graphite + grafana</strong> 三件套，不用考虑 atatus newrelic 等。\n如果你使用 Node 做高并发服务，alinode 将会很有用。</h2>\n<p>著作权归本文作者所有，未经授权，请勿转载，谢谢。</p>\n</div>",
+            "title": "AI考拉技术分享会--Node.js APM 软件调研报告",
+            "last_reply_at": "2018-11-30T06:24:31.117Z",
+            "good": false,
+            "top": false,
+            "reply_count": 0,
+            "visit_count": 107,
+            "create_at": "2018-11-30T06:24:31.117Z",
+            "author": {
+                "loginname": "kalengo",
+                "avatar_url": "https://avatars2.githubusercontent.com/u/8817810?v=4&s=120"
+            }
+        },
+        {
+            "id": "5bfb9a7bd6104a4f803a197b",
+            "author_id": "5875bd3d06fa6e2a4e4f730b",
+            "tab": "share",
+            "content": "<div class=\"markdown-text\"><p>为什么要学习机器学习，我认为有以下重要的三点：</p>\n<ul>\n<li>可缩短我们的编程时间，比如可以通过机器学习学习垃圾话样本，进行更快速更精准的垃圾话的检测</li>\n<li>普通编程方法难以解决的问题，比如用户潜在喜好和用户行为的预测</li>\n<li>更重要的是扩宽我们程序员的思维逻辑，对于适用的方向能够提出这方面的构思</li>\n</ul>\n<p>从前JS程序员要学习机器学习，总是困难的，很多时候被算法和复杂的逻辑所困住，但现在问题得到很大的缓解，我们可以用tensorflow.js（训练和部署机器语言模型的JavaScript库）提供的库和用更好的方式来更简单的实现机器学习能力。</p>\n<p>本文将主要讲解机器学习的一些主要概念。更偏重适用tensorflow.js的实战的入门级教程，<a href=\"https://github.com/zy445566/tfjs-tutorials-zh/blob/master/README.md\">请点击这里(前三节强烈推荐)</a>。</p>\n<h1>基本的机器学习的流程一般是怎么样的</h1>\n<p>在学习机器学习前我认为首先要明确以下几点</p>\n<ul>\n<li>标签 一般来说标签就是预测目标的结果，也可以是预测的正确值。</li>\n<li>特征 一般是指提提供训练的样本，而样本分以下几类：\n<ul>\n<li>有标签的样本（带正确答案的样本，大部分都是使用有标签的样本进行训练）</li>\n<li>无标签的样本（不带正常答案的样本）</li>\n</ul>\n</li>\n<li>模型 指的的是预测和训练样本的工具。你可以形象的理解为婴儿的大脑。</li>\n<li>损失函数 用于计算标签和模型预测值的差值。</li>\n<li>优化器 用于将损失函数计算的差值向正确方向优化的步伐</li>\n<li>学习速度 一般代表优化器的优化的步伐大小，过大则容易偏离正确值，过小则要更多运算才能到达正确值。就好比你要到马路中间要走5米，然而一次走500米和一次走5厘米，都很难到达马路中间。</li>\n</ul>\n<p>好了，知道了以上几种概念，那么我们来以一张图的方式来展示，机器到底是如何进行学习的。</p>\n<p><img src=\"//static.cnodejs.org/FvQcuUXRuBoUl1hS4PUb0UdMPZky\" alt=\"basic.png\"></p>\n<p>那么从图中很容易了解到，我们是将特征输入到模型中计算出预测值，将标签进行通过损失函数计算出误差值，再交给优化器优化，参数更新后，模型再重复这一个过程，就构成了基本的机器学习的流程。</p>\n<h1>过拟合</h1>\n<p>为什么要讲过拟合？什么是过拟合？</p>\n<p>防止过拟合是分类器的一个核心任务。而比如人脸识别，实际上就是一个分类器，比如将图片的风景，动物脸，人脸中的人脸的特征进行归类，将欧美人脸，亚太人脸，非洲人脸进行归类，甚至可以将某个特定的人的脸单独归为一类。所以它在机器学习里面也有举足轻重的地位。</p>\n<p>那什么是过拟合呢？举个例子，我们在日常生活中见到的羊都是白色的，那有一天看到了除了颜色是黑色其他特征和我们日常见到的白羊都是一样的，那我们是不是就会认为这不是一只羊，人当然不会因为颜色就断定这不是一只羊，而机器却会说我见过的羊都是白色的，所以不可能有黑色的羊，所以这不是一只羊。过拟合官方的解释是为了得到一致假设而使假设变得过度严格。</p>\n<p>那么过拟合要如何解决呢？这是一个机器学习重要的能力：泛化。</p>\n<p>那么如何保证泛化，经验告诉我们有3个要点：</p>\n<ul>\n<li>从分布中抽取<code>独立同分布</code>(iid)样本</li>\n<li>分布是<code>平稳的</code>不会随时间变化而变化</li>\n<li>始终从<code>同一分布</code>抽取样本</li>\n</ul>\n<p>但样本的使用也同样重要，一般我们会将样本分为 训练集，验证集，测试集。</p>\n<p>各自用途是什么？为什么需要分3个集？</p>\n<p>用途是什么，这个问题很简单：</p>\n<ul>\n<li>训练集 用于训练模型</li>\n<li>验证集 用于评估模型，即在训练每轮后验证训练的准确性，并帮助矫正参数</li>\n<li>测试集 用于测试模型，验证模型的准确性</li>\n</ul>\n<p>为什么需要分3个集？可能大家会觉得为什么要三个集，直接用测试集评估和测试模型不就好了。</p>\n<p>那我们做一个假设。如果我们用测试集评估模型，然后调整参数的话如下图：</p>\n<p><img src=\"//static.cnodejs.org/FqlkTZ4C5h_G1s5BVfIRJUQQ0F1j\" alt=\"error-train.png\"></p>\n<p>那么会不会出现之前所说<code>过拟合</code>的问题呢？答案是会的。即为了得到一致假设而使假设变得过度严格，请仔细思考这句话。</p>\n<p>而正确的方式应该是：</p>\n<p><img src=\"//static.cnodejs.org/Fs4zvFiG5aP6tBSIy7xqVnABvzan\" alt=\"right-train.png\"></p>\n<p>使用这样的流程就不会产生因为测试数据加入训练，导致通过了最终的测试数据中。</p>\n<h1>处理源数据的技巧</h1>\n<p>在训练模型之前我们需要处理大量的源数据同时转换为我们模型可以使用的数据，那么源数据的处理技巧就至关重要了。</p>\n<p>在将原始数据处理成特征的这个过程，我们叫特征工程。</p>\n<p>那么我们在做特征工程时有什么技巧：</p>\n<ul>\n<li>字符串可以使用独热编码</li>\n<li>过滤非合理数据，比如库中极少的数据</li>\n<li>筛选不随时间变化的特征</li>\n<li>使用分箱技巧处理非线性性特征</li>\n</ul>\n<p>当然我们在处理这类数据时，也应保持以下几点以更容易暴露有问题的数据：</p>\n<ul>\n<li>将数据可视化呈现</li>\n<li>不断地对数据进行调试</li>\n<li>对数据进行监控</li>\n</ul>\n<p>讲了数据处理，我们讲讲扩展数据集的方法，那么什么是扩展数据集呢？比如我们的数据集不是很充足，比如只有10个，显然是不足以训练模型的数据集，目前最主流的方法是可以通过它的单一特征来实现扩展，比如都在某个城市出现过，这种是线性的扩展方式。但是\n而对数据的处理中很多特征，不是通过简单的单一线性就能划分的特征，比如在某个城市出现过的且短期存在的特征，这个就是非线性特征，我们需要短期存在和某个城市出现两个特征一起查询数据，这样的过程叫做特征交叉，即将两个数据交叉后转换为线性的方法。目前的事实也证明通过通过线性扩展数据是最高效的方法。（个人觉得说特征交叉就高大上一点，而两个条件相交查询就不专业了）</p>\n<h1>如何让预测结果更加正常和正确评估模型</h1>\n<p>在之前说过我们的模型训练需要通过损失函数计算损失，那么我们如何降低更多的损失呢？就比如我们训练集的损失度通过不断的学习越来越低，而测试集在训练集损失最低的时刻并不能是最低点，甚至说训练集样本损失度更高的时候，测试集损失度反而更低，我们应该如何解决这个问题。让机器学习更好泛化到新样本中呢？</p>\n<p>解决方案：</p>\n<ul>\n<li>早停法，可以简单理解为用测试集测试的损失度最低点时就停止训练的模型</li>\n<li>正则化</li>\n</ul>\n<p>第一种方案在实际的操作中比较难控制，那么我们今天主要来讲讲主要使用的L2（岭回归）正则化，即以下几点。</p>\n<ul>\n<li>定义复杂度（模型）= 权重的平方和</li>\n<li>使用适当的权重</li>\n<li>对于线性模型：首选比较平缓的斜率</li>\n<li>贝叶斯先验概率：\n<ul>\n<li>权重应该以 0 为中心</li>\n<li>权重应该呈正态分布</li>\n</ul>\n</li>\n</ul>\n<p>除L2正则化还存在L0正则化，L0正则化主要是解决：</p>\n<ul>\n<li>稀疏特征组合造成内存消耗过大</li>\n<li>噪点过多的问题</li>\n</ul>\n<p>那么L0，和L2的区别是什么呢？即将权重设为0，处理稀疏特征组合数据。L10属于非凸优化问题。</p>\n<p>那么L0可能过于暴力，会导致NP-hard的问题，但我们还有一个折中的方案L1，即只对权重绝对值之和进行惩罚。同时L1属于凸优化问题。</p>\n<p>通常我们可以使用逻辑回归结合一起使用</p>\n<p>例如在求解概率的问题上，我们可以使用线性逻辑回归来快速求解问题，在非线性的情况，我们可以使用上节提到的特征交叉的方法来转换成线性再进行线性逻辑回归来快速求解问题，同时引入早停法和正则化来防止过拟合。</p>\n<p>例如之前说过人脸识别实际上是一个分类问题，我们就可以使用逻辑回归来判断分类概率，同时设置阈值来判断是否加入该分类，有时在这方面准确率产生也会产生误导性，如：</p>\n<ul>\n<li>在不同类型的问题需要不同的解决方案时</li>\n<li>分类不平衡，即正类别或负类别极其罕见时</li>\n</ul>\n<p>解决分类不平衡，我觉得我们需要先了解下真正例和假正例，官方说的很好，我直接把这个狼来了的故事搬过来。</p>\n<ul>\n<li>真正例 我们正确地提醒了狼的出现！我们拯救了小镇。</li>\n<li>假正例 错误：我们错误地提醒了狼的出现。所有人都对我们非常生气。</li>\n<li>假负例 确实有一头狼出现了，但我们没有发现它。狼吃光了我们所有的鸡。</li>\n<li>假负例 没有狼出现，也没有提醒。大家都相安无事。</li>\n</ul>\n<p>我们可以把真正例，假正例，假负例，假负例组成不同的指标</p>\n<ul>\n<li>精确率：（真正例次数）/（所有正类别预测次数）</li>\n<li>召回率：（真正例次数）/（所有实际正类别数）</li>\n</ul>\n<p>精确率和召回率往往处于此消彼长的状态，精确率和召回率是模型的重要评估指标，但往往我们无法直接得出精确率和召回率，所以可以使用AUC（ROC曲线下方的面积大小）来解决这个问题，即随机挑选一个正样本以及一个负样本，当前的分类算法根据计算得到的Score值将这个正样本排在负样本前面的概率就是AUC值，而这个AUC值越高，模型就越好。</p>\n<p>还有一个重要评估的指标是预测偏差，即我们所有预测项的总和和观察项的总和比较下的结果。但偏差为0也并不能说明模型就完美，但预测偏差是个很好的checklist项目。</p>\n<h1>深度神经网络</h1>\n<p>在处理源数据的技巧的小节上说到，对于非线性特征可以使用特征交叉的方法来转换成线性特征来解决，但对于十分复杂的特征值，比如说真正例和假正例很接近，该如何处理呢？对的，可以使用深度神经网络来解决这个问题。</p>\n<p>对于线性问题，我们的层级大概只有两层，即输入层和输出层</p>\n<p>但对于非线性问题，我们往往需要增加一些层，通常通过ReLU(线性整流函数)和BP（反向传播算法）来实现。</p>\n<p>对于ReLU可以计算是否线性，一般来说大于0则为线性问题</p>\n<p>对于BP来说，常见的方法有SGD（随机梯度下降法），算法由主要由两个阶段组成：激励传播与权重更新。</p>\n<h4>第1阶段：激励传播</h4>\n<p>每次迭代中的传播环节包含两步：</p>\n<ul>\n<li>（前向传播阶段）将训练输入送入网络以获得激励响应；</li>\n<li>（反向传播阶段）将激励响应同训练输入对应的目标输出求差，从而获得隐藏层和输出层的响应误差。</li>\n</ul>\n<h4>第2阶段：权重更新</h4>\n<p>对于每个突触上的权重，按照以下步骤进行更新：</p>\n<ul>\n<li>将输入激励和响应误差相乘，从而获得权重的梯度；</li>\n<li>将这个梯度乘上一个比例并取反后加到权重上。\n这个比例（百分比）将会影响到训练过程的速度和效果，因此成为“训练因子”。梯度的方向指明了误差扩大的方向，因此在更新权重的时候需要对其取反，从而减小权重引起的误差。</li>\n</ul>\n<p>第 1 和第 2 阶段可以反复循环迭代，直到网络对输入的响应达到满意的预定的目标范围为止。</p>\n<p>注意事项：</p>\n<ul>\n<li>梯度很重要\n<ul>\n<li>如果它是可微的，则我们才能够对其进行学习</li>\n</ul>\n</li>\n<li>梯度可能会消失\n<ul>\n<li>每个额外的层都会依次降低信噪比</li>\n<li>ReLu 在这里很有用</li>\n</ul>\n</li>\n<li>梯度可能会分解（比如妈妈里面出现男，其实这在中国很常见）\n<ul>\n<li>学习速率在这里很重要</li>\n<li>批标准化（实用按钮）可以提供帮助</li>\n</ul>\n</li>\n<li>ReLu 层可能会消失\n<ul>\n<li>保持冷静，并降低您的学习速率</li>\n</ul>\n</li>\n</ul>\n<p>如何解决该问题，标准化特征值很重要</p>\n<ul>\n<li>特征具有合理的范围\n<ul>\n<li>大致以 0 为中心，[-1, 1] 的范围通常效果比较好</li>\n<li>有助于梯度下降法收敛；避免 NaN 陷阱</li>\n<li>避免离群值也会有帮助</li>\n</ul>\n</li>\n<li>可以使用一些标准方法：\n<ul>\n<li>线性缩放</li>\n<li>为最大值和最小值设定硬性上下限（截断）</li>\n<li>对数缩放</li>\n</ul>\n</li>\n</ul>\n<p>其次在深度神经网络里面还有一个很有用的技巧，丢弃</p>\n<ul>\n<li>丢弃：另一种正则化形式，对神经网络很有用</li>\n<li>工作原理是，在一个梯度步长中随机“丢弃”网络的单元\n<ul>\n<li>有一个可用于集成学习此处的模型的连接</li>\n</ul>\n</li>\n<li>丢弃得越多，正则化效果就越强\n<ul>\n<li>0.0（一点都不丢弃） = 无丢弃正则化，得到原来的复杂模型</li>\n<li>1.0 （全部丢弃） = 丢弃所有内容！学不到任何规律，得到特别简单且无用的模型</li>\n<li>中间值更有用（在这个位置进行丢弃，则是在这个位置应用了有效的正则化）</li>\n</ul>\n</li>\n</ul>\n<h1>多类别神经网络</h1>\n<p>在之前的章节里面说到，逻辑回归很适合一些是或者不是的问题，它可以很方便给某样东西的是是或不是加上概率，比如是否是是垃圾邮件还是非垃圾邮件。</p>\n<p>但在多类别中，我们是怎么处理的呢，即如何处理狗是哺乳动物?还是植物?还是其他什么？这种多分支选择。</p>\n<p>那么我们在一对多类别中，我们可以：</p>\n<ul>\n<li>为每个可能的类别创建唯一输出</li>\n<li>分别对“我的类别”与“所有其他类别”信号进行训练</li>\n<li>可以在深度网络中执行，也可以借助单独的模型执行</li>\n</ul>\n<p>那我们有没有更好，更方便的方法呢？对的，我们可以使用SoftMax进行多类别划分。SoftMax使得：</p>\n<ul>\n<li>添加了附加限制：要求所有一对多节点的输出总和为 1.0（100%，这就是逻辑回归的多类别升级版）</li>\n<li>附加限制有助于快速训练收敛</li>\n<li>另外，允许输出解析为概率</li>\n</ul>\n<p>我们可以使用两种方式让SoftMax进行计算</p>\n<ul>\n<li>全部数据计算 即暴力破解；针对所有类别进行计算</li>\n<li>采样数据计算 即针对所有正类别标签进行计算，但仅针对负类别标签的随机样本进行计算。</li>\n</ul>\n<p>那我们应该如何使用标签给多类别分类呢？</p>\n<p>多类别单一标签分类：</p>\n<ul>\n<li>一个样本可能只是一个类别的成员。</li>\n<li>类别互斥这一限制是有用的结构。</li>\n<li>有助于在损失中对此进行编码。</li>\n<li>将一个 softmax 损失用于所有可能的类别。</li>\n</ul>\n<p>多类别多标签分类：</p>\n<ul>\n<li>一个样本可能是多个类别的成员。</li>\n<li>无需对类别成员资格设定额外的限制。</li>\n<li>将一个逻辑回归损失用于每个可能的类别。</li>\n</ul>\n<h1>相似性神经网络</h1>\n<p>这个在商品推荐和广告推荐比较常用。通常我们需要在多维度分析用户来推荐对应商品：</p>\n<ul>\n<li>比如用户对商品的兴趣可大致从N个方面分析</li>\n<li>每部商品都变成一个点，在不同的维度中，这个点的高度都是不一样的</li>\n<li>那么我们可从数据中嵌套学习，用户在不同维度的兴趣点</li>\n</ul>\n<p>在深度网络中学习嵌套能做什么？</p>\n<ul>\n<li>无需单独的训练过程，也就是说，嵌套层只是隐藏层，每个维度一个单元</li>\n<li>监督式信息针对所需任务调整学到的嵌套，即根据用户上一个商品调整，下一个商品出现</li>\n<li>隐藏单元直观地发现整理多维空间中的各项，才能最大限度地优化最终目标</li>\n</ul>\n<p>我们可以使用输入表示法来显示用户用户兴趣的相同特征</p>\n<ul>\n<li>每个样本是用户兴趣的相同的特征的稀疏矢量</li>\n<li>使矩阵样本的密集表示法表示</li>\n</ul>\n<p>比如</p>\n<table>\n<thead>\n<tr>\n<th>x</th>\n<th>双肩包</th>\n<th>沙发</th>\n<th>冰箱</th>\n<th>单肩包</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>x</td>\n<td>x</td>\n<td>v</td>\n<td>x</td>\n<td>x</td>\n</tr>\n<tr>\n<td>x</td>\n<td>x</td>\n<td>x</td>\n<td>v</td>\n<td>x</td>\n</tr>\n<tr>\n<td>用户</td>\n<td>v</td>\n<td>x</td>\n<td>x</td>\n<td>v</td>\n</tr>\n</tbody>\n</table>\n<p>那么用户的矩阵样本可表示为(1,0,0,1),但这种方法从空间和时间上来说，这种表示法并不高效，因为每个看过的商品都是一行，我这里只例举了双肩包，沙发，冰箱，单肩包。而正常来说，用户看的远超这些。</p>\n<p>我们如何选择嵌套维度个数，请根据以下三条判断：</p>\n<ul>\n<li>嵌套维度的个数越多，越能准确地表示输入值之间的关系</li>\n<li>不过，维度个数越多，过拟合的可能性就越高，训练速度也会越慢</li>\n<li>经验法则</li>\n</ul>\n<p>嵌套能做什么？</p>\n<ul>\n<li>嵌套会以相似内容彼此靠近的方式将各项内容（如影片、文字等）映射到低维实矢量</li>\n<li>嵌套也可应用于密集数据（如音频），以创建有意义的相似度指标</li>\n<li>联合嵌套多种类型的数据（如文字、图片、音频等），以定义这些数据之间的相似度</li>\n</ul>\n<h1>结语</h1>\n<p>为什么要学习这些概念，我认为概念讲解往往比代码讲解更容易理解一样东西，代码也仅仅是概念的一种实现，概念能更好帮助我们在后续的阶段更好的学习，欢迎<a href=\"https://github.com/zy445566/tfjs-tutorials-zh/blob/master/README.md\">查看tensorflow.js的实战的入门级教程</a>学习更多实战内容。</p>\n</div>",
+            "title": "一个JS程序员对机器学习的概念简单手记",
+            "last_reply_at": "2018-11-30T03:10:12.953Z",
+            "good": false,
+            "top": false,
+            "reply_count": 14,
+            "visit_count": 816,
+            "create_at": "2018-11-26T07:02:19.121Z",
+            "author": {
+                "loginname": "zy445566",
+                "avatar_url": "https://avatars2.githubusercontent.com/u/14976489?v=4&s=120"
+            }
+        },
+        {
+            "id": "5bff8bfbbe1b120abac5e1e5",
+            "author_id": "58d140302c8bf2a836456213",
+            "tab": "share",
+            "content": "<div class=\"markdown-text\"><ul>\n<li>原文：<a href=\"https://github.com/ljianshu/Blog/issues/10\">ES6核心特性</a></li>\n<li>作者：<a href=\"https://github.com/ljianshu\">ljianshu</a></li>\n</ul>\n<h3>前言</h3>\n<p>ES6 虽提供了许多新特性，但我们实际工作中用到频率较高并不多，根据二八法则，我们应该用百分之八十的精力和时间，好好专研这百分之二十核心特性，将会收到事半功倍的奇效！写文章不容易，请大家多多支持与关注！<strong>本文首发地址<a href=\"https://github.com/ljianshu/Blog\">GitHub博客</a></strong>。</p>\n<p><img src=\"https://image.fundebug.com/2018-11-29-3174701-d9e745416030d333.png\" alt></p>\n<h3>一、开发环境配置</h3>\n<p>这部分着重介绍：<strong>babel 编译ES6语法，如何用webpack实现模块化。</strong></p>\n<h4>1. babel</h4>\n<p><strong>为啥需要babel？</strong></p>\n<p>ES6 提供了许多新特性，但并不是所有的浏览器都能够完美支持。下图是各个浏览器对ES6兼容性一览表(以export为例)</p>\n<p><img src=\"https://image.fundebug.com/2018-11-29-export.png\" alt></p>\n<p>由上图可知，有些浏览器对于ES6并不是很友好，针对 ES6 的兼容性问题，很多团队为此开发出了多种语法解析转换工具(比如babel，jsx，traceur 等)，可以把我们写的 ES6 语法转换成 ES5，相当于在 ES6 和浏览器之间做了一个翻译官。其中<a href=\"https://babeljs.io/\">Babel</a>是一个广泛使用的转码器，可以将ES6代码转为ES5代码，从而在现有环境执行。</p>\n<p><strong>如何配置babel？</strong></p>\n<ul>\n<li>首先要先安装node.js，运行npm init，然后会生成package.json文件</li>\n<li>npm install --save-dev babel-core babel-preset-es2015 babel-preset-latest</li>\n<li>创建并配置.babelrc文件//存放在项目的根目录下，与node_modules同级</li>\n<li>npm install -g babel-cli</li>\n<li>babel -version</li>\n</ul>\n<p>Babel的配置文件是.babelrc，存放在项目的根目录下。该文件用来设置转码规则和插件，具体内容如下：</p>\n<pre class=\"prettyprint language-javascript\"><code>&#x2F;&#x2F;.babelrc文件\n{\n    &quot;presets&quot;: [&quot;es2015&quot;, &quot;latest&quot;],\n    &quot;plugins&quot;: []\n}\n</code></pre><p><strong>验证babel配置是否成功</strong></p>\n<pre class=\"prettyprint language-javascript\"><code>·创建.&#x2F;src&#x2F;index.js\n·内容：[1,2,3].map(item=&gt;item+1）；\n·运行babel.&#x2F;src&#x2F;index.js\n</code></pre><p>运行后得到以下部分，说明已经成功配置了babel</p>\n<pre class=\"prettyprint language-javascript\"><code>&quot;use strict&quot;;\n[1, 2, 3].map(function (item) {\n  return item + 1;\n});\n</code></pre><h4>2. webpack</h4>\n<p><strong>为啥要使用WebPack？</strong></p>\n<p>现今的很多网页其实可以看做是功能丰富的应用，它们拥有着复杂的JavaScript代码和一大堆依赖包，模快化工具就应运而生了，其中webpack 功能强大深受人们喜爱。\n<strong>Webpack的工作方式是：把你的项目当做一个整体，通过一个给定的主文件（如：index.js），Webpack将从这个文件开始找到你的项目的所有依赖文件，使用loaders处理它们，最后打包为一个（或多个）浏览器可识别的JavaScript文件。</strong></p>\n<p><img src=\"https://image.fundebug.com/2018-11-29-webpack.png\" alt></p>\n<p><strong>如何配置webpack？</strong></p>\n<pre class=\"prettyprint language-javascript\"><code>·npm install webpack babel-loader --save-dev\n·创建并配置 webpack.config.js&#x2F;&#x2F;webpack.config.js文件与package.json同级\n·配置 package.json中的scripts\n·运行 npm start\n&#x2F;&#x2F;配置 webpack.config.js  针对.js结尾的文件除了node_modules都用babel解析\nmodule.exports = {\n    entry: &#x27;.&#x2F;src&#x2F;index.js&#x27;,\n    output: {\n        path: __dirname,\n        filename: &#x27;.&#x2F;build&#x2F;bundle.js&#x27;\n    },\n    module: {\n        rules: [{\n            test: &#x2F;\\.js?$&#x2F;,\n            exclude: &#x2F;(node_modules)&#x2F;,\n            loader: &#x27;babel-loader&#x27;\n        }]\n    }\n}\n&#x2F;&#x2F;配置 package.json中的scripts\n&quot;scripts&quot;: {\n    &quot;start&quot;: &quot;webpack&quot;,\n    &quot;test&quot;: &quot;echo \\&quot;Error: no test specified\\&quot; &amp;&amp; exit 1&quot;\n  }\n</code></pre><h3>二、块级作用域</h3>\n<p>ES5 只有全局作用域和函数作用域（例如，我们必须将代码包在函数内来限制作用域），这导致很多问题：</p>\n<p><strong>情况1：内层变量覆盖外层变量</strong></p>\n<pre class=\"prettyprint language-javascript\"><code>var tmp = new Date();\nfunction f() {\n  console.log(tmp); &#x2F;&#x2F;undefined\n  if (false) {   \n    var tmp = &quot;hello world&quot;;\n  }\n}\n</code></pre><p><strong>情况2：变量泄露，成为全局变量</strong></p>\n<pre class=\"prettyprint language-javascript\"><code>var s = &#x27;hello&#x27;;\nfor (var i = 0; i &lt; s.length; i++) {\n  console.log(s[i]);\n}\nconsole.log(i); &#x2F;&#x2F; 5\n</code></pre><p>ES6 提供 let 和 const 来代替 var 声明变量，新的声明方式支持用大括号表示的块级作用域，这会带来一些好处：</p>\n<h4>不再需要立即执行的函数表达式(IIFE)</h4>\n<p>在 ES5 中，我们需要构造一个立即执行的函数表达式去保证我们不污染全局作用域。在 ES6中， 我们可以使用更简单的大括号（{}），然后使用 const 或者 let 代替 var 来达到同样的效果。</p>\n<h4>循环体中的闭包不再有问题</h4>\n<p>在 ES5 中，如果循环体内有产生一个闭包，访问闭包外的变量，会产生问题。在 ES6，你可以使用 “let” 来避免问题。</p>\n<p><img src=\"https://image.fundebug.com/2018-11-29-bibao.png\" alt></p>\n<h4>防止重复声明变量</h4>\n<p>ES6 不允许在同一个作用域内用 let 或 const 重复声明同名变量。这对于防止在不同的 js 库中存在重复声明的函数表达式十分有帮助。</p>\n<h3>三、数组的扩展</h3>\n<h4>Array.from() : 将伪数组对象或可遍历对象转换为真数组</h4>\n<p><strong>如果一个对象的所有键名都是正整数或零，并且有length属性</strong>，那么这个对象就很像数组，称为伪数组。典型的伪数组有<strong>函数的arguments对象，以及大多数 DOM 元素集，还有字符串。</strong></p>\n<pre class=\"prettyprint language-html\"><code>...\n&lt;button&gt;测试1&lt;&#x2F;button&gt;\n&lt;br&gt;\n&lt;button&gt;测试2&lt;&#x2F;button&gt;\n&lt;br&gt;\n&lt;button&gt;测试3&lt;&#x2F;button&gt;\n&lt;br&gt;\n&lt;script type=&quot;text&#x2F;javascript&quot;&gt;\nlet btns = document.getElementsByTagName(&quot;button&quot;)\nconsole.log(&quot;btns&quot;,btns);&#x2F;&#x2F;得到一个伪数组\nbtns.forEach(item=&gt;console.log(item)) Uncaught TypeError: btns.forEach is not a function\n&lt;&#x2F;script&gt;\n</code></pre><p>针对伪数组，没有数组一般方法，直接遍历便会出错,ES6新增Array.from()方法来提供一种明确清晰的方式以解决这方面的需求。</p>\n<pre class=\"prettyprint language-javascript\"><code>Array.from(btns).forEach(item=&gt;console.log(item))将伪数组转换为数组\n</code></pre><p><img src=\"https://image.fundebug.com/2018-11-29-3174701-65862818c1956a57.png\" alt></p>\n<h4>Array.of(v1, v2, v3) : 将一系列值转换成数组</h4>\n<p>当调用 new Array( )构造器时，根据传入参数的类型与数量的不同，实际上会导致一些不同的结果， 例如：</p>\n<pre class=\"prettyprint language-javascript\"><code>let items = new Array(2) ;\nconsole.log(items.length) ; &#x2F;&#x2F; 2\nconsole.log(items[0]) ; &#x2F;&#x2F; undefined\nconsole.log(items[1]) ;\nlet items = new Array(1, 2) ;\nconsole.log(items.length) ; &#x2F;&#x2F; 2\nconsole.log(items[0]) ; &#x2F;&#x2F; 1\nconsole.log(items[1]) ; &#x2F;&#x2F; 2\n</code></pre><p>当使用单个数值参数来调用 Array 构造器时，数组的长度属性会被设置为该参数。 如果使用多个参数(无论是否为数值类型)来调用，这些参数也会成为目标数组的项。数组的这种行为既混乱又有风险，因为有时可能不会留意所传参数的类型。</p>\n<p>ES6 引入了Array.of( )方法来解决这个问题。该方法的作用非常类似Array构造器，但在使用单个数值参数的时候并不会导致特殊结果。<strong>Array.of( )方法总会创建一个包含所有传入参数的数组，而不管参数的数量与类型</strong>：</p>\n<pre class=\"prettyprint language-javascript\"><code>let items = Array.of(1, 2);\nconsole.log(items.length); &#x2F;&#x2F; 2\nconsole.log(items[0]); &#x2F;&#x2F; 1\nconsole.log(items[1]); &#x2F;&#x2F; 2\nitems = Array.of(2);\nconsole.log(items.length); &#x2F;&#x2F; 1\nconsole.log(items[0]); &#x2F;&#x2F; 2\n</code></pre><p><strong>Array.of基本上可以用来替代Array()或newArray()，并且不存在由于参数不同而导致的重载，而且他们的行为非常统一。</strong></p>\n<h4>数组实例的 find() 和 findIndex()</h4>\n<p>数组实例的find方法，用于找出第一个符合条件的数组成员。它的参数是一个回调函数，所有数组成员依次执行该回调函数，直到找出第一个返回值为true的成员，然后返回该成员。如果没有符合条件的成员，则返回undefined。</p>\n<pre class=\"prettyprint language-javascript\"><code>[1, 4, -5, 10].find((n) =&gt; n &lt; 0) &#x2F;&#x2F; -5\n</code></pre><p>数组实例的findIndex方法的用法与find方法非常类似，返回第一个符合条件的数组成员的位置，如果所有成员都不符合条件，则返回-1。</p>\n<pre class=\"prettyprint language-javascript\"><code>[1, 5, 10, 15].findIndex(function(value, index, arr) {\n  return value &gt; 9;\n}) &#x2F;&#x2F; 2\n</code></pre><h4>数组实例的includes()</h4>\n<p>Array.prototype.includes方法返回一个布尔值，表示某个数组是否包含给定的值。该方法的第二个参数表示搜索的起始位置，默认为0。如果第二个参数为负数，则表示倒数的位置，如果这时它大于数组长度（比如第二个参数为-4，但数组长度为3），则会重置为从0开始。</p>\n<pre class=\"prettyprint language-javascript\"><code>[1, 2, 3].includes(2)   &#x2F;&#x2F; true\n[1, 2, 3].includes(3, -1); &#x2F;&#x2F; true\n[1, 2, 3, 5, 1].includes(1, 2); &#x2F;&#x2F; true\n</code></pre><p>没有该方法之前，我们通常使用数组的indexOf方法，检查是否包含某个值。indexOf方法有两个缺点，<strong>一是不够语义化，它的含义是找到参数值的第一个出现位置，所以要去比较是否不等于-1，表达起来不够直观。二是，它内部使用严格相等运算符（===）进行判断，这会导致对NaN的误判</strong>。</p>\n<pre class=\"prettyprint\"><code>[NaN].indexOf(NaN) &#x2F;&#x2F; -1\n[NaN].includes(NaN) &#x2F;&#x2F; true\n</code></pre><h4>数组实例的 entries()，keys() 和 values()</h4>\n<p>ES6 提供entries()，keys()和values(),用于遍历数组。它们都返回一个遍历器对象，可以用for…of循环进行遍历，唯一的区别是keys()是对键名的遍历、values()是对键值的遍历，entries()是对键值对的遍历。</p>\n<pre class=\"prettyprint language-javascript\"><code>for (let index of [&#x27;a&#x27;, &#x27;b&#x27;].keys()) {\n  console.log(index);\n}\n&#x2F;&#x2F; 0\n&#x2F;&#x2F; 1\n\nfor (let elem of [&#x27;a&#x27;, &#x27;b&#x27;].values()) {\n  console.log(elem);\n}\n&#x2F;&#x2F; &#x27;a&#x27;\n&#x2F;&#x2F; &#x27;b&#x27;\n\nfor (let [index, elem] of [&#x27;a&#x27;, &#x27;b&#x27;].entries()) {\n  console.log(index, elem);\n}\n&#x2F;&#x2F; 0 &quot;a&quot;\n&#x2F;&#x2F; 1 &quot;b&quot;\n</code></pre><h3>四、箭头函数</h3>\n<p>ES6 允许使用“箭头”（=&gt;）定义函数。它主要有两个作用：缩减代码和改变this指向，接下来我们详细介绍：</p>\n<h4>缩减代码</h4>\n<pre class=\"prettyprint language-javascript\"><code>const double1 = function(number){\n   return number * 2;   &#x2F;&#x2F;ES5写法\n}\nconst double2 = (number) =&gt; {\n return number * 2;    &#x2F;&#x2F;ES6写法\n}\nconst double4 = number =&gt; number * 2; &#x2F;&#x2F;可以进一步简化\n</code></pre><p><strong>多个参数记得加括号</strong></p>\n<pre class=\"prettyprint language-javascript\"><code>const double6 = (number,number2) =&gt; number + number2;\n</code></pre><p><strong>如果箭头函数的代码块部分多于一条语句，就要使用大括号将它们括起来，并且使用return语句返回</strong>。</p>\n<pre class=\"prettyprint language-javascript\"><code> const double = (number,number2) =&gt; {\n   sum = number + number2 \n   return sum;\n }\n</code></pre><p>由于大括号被解释为代码块，所以<strong>如果箭头函数直接返回一个对象，必须在对象外面加上括号，否则会报错</strong>。</p>\n<pre class=\"prettyprint language-javascript\"><code>&#x2F;&#x2F; 报错\nlet getTempItem = id =&gt; { id: id, name: &quot;Temp&quot; };\n&#x2F;&#x2F; 不报\nlet getTempItem = id =&gt; ({ id: id, name: &quot;Temp&quot; });\n</code></pre><p><strong>此外还有个好处就是简化回调函数</strong></p>\n<pre class=\"prettyprint language-javascript\"><code>&#x2F;&#x2F; 正常函数写法\n[1,2,3].map(function (x) {\n  return x * x;\n});\n&#x2F;&#x2F; 箭头函数写法\n[1,2,3].map(x =&gt; x * x);&#x2F;&#x2F;[1, 4, 9]\n</code></pre><h4>改变this指向</h4>\n<p>长期以来，JavaScript 语言的this对象一直是一个令人头痛的问题，在对象方法中使用this，必须非常小心。箭头函数”绑定”this，很大程度上解决了这个困扰。我们不妨先看一个例子：</p>\n<pre class=\"prettyprint language-javascript\"><code>const team = {\n  members:[&quot;Henry&quot;,&quot;Elyse&quot;],\n  teamName:&quot;es6&quot;,\n  teamSummary:function(){\n    return this.members.map(function(member){\n      return &#96;${member}隶属于${this.teamName}小组&#96;;    &#x2F;&#x2F; this不知道该指向谁了\n    })\n  }\n}\nconsole.log(team.teamSummary());&#x2F;&#x2F;[&quot;Henry隶属于undefined小组&quot;, &quot;Elyse隶属于undefined小组&quot;]\n</code></pre><p>teamSummary函数里面又嵌了个函数，这导致内部的this的指向发生了错乱。\n<strong>那如何修改：</strong></p>\n<p>方法一、let self = this</p>\n<pre class=\"prettyprint language-javascript\"><code>const team = {\n  members:[&quot;Henry&quot;,&quot;Elyse&quot;],\n  teamName:&quot;es6&quot;,\n  teamSummary:function(){\n    let self = this;\n    return this.members.map(function(member){\n      return &#96;${member}隶属于${self.teamName}小组&#96;;\n    })\n  }\n}\nconsole.log(team.teamSummary());&#x2F;&#x2F;[&quot;Henry隶属于es6小组&quot;, &quot;Elyse隶属于es6小组&quot;]\n</code></pre><p>方法二、bind函数</p>\n<pre class=\"prettyprint language-javascript\"><code>const team = {\n  members:[&quot;Henry&quot;,&quot;Elyse&quot;],\n  teamName:&quot;es6&quot;,\n  teamSummary:function(){\n    return this.members.map(function(member){\n      &#x2F;&#x2F; this不知道该指向谁了\n      return &#96;${member}隶属于${this.teamName}小组&#96;;\n    }.bind(this))\n  }\n}\nconsole.log(team.teamSummary());&#x2F;&#x2F;[&quot;Henry隶属于es6小组&quot;, &quot;Elyse隶属于es6小组&quot;]\n</code></pre><p>方法三、 箭头函数</p>\n<pre class=\"prettyprint language-javascript\"><code>const team = {\n  members:[&quot;Henry&quot;,&quot;Elyse&quot;],\n  teamName:&quot;es6&quot;,\n  teamSummary:function(){\n    return this.members.map((member) =&gt; {\n      &#x2F;&#x2F; this指向的就是team对象\n      return &#96;${member}隶属于${this.teamName}小组&#96;;\n    })\n  }\n}\nconsole.log(team.teamSummary());&#x2F;&#x2F;[&quot;Henry隶属于es6小组&quot;, &quot;Elyse隶属于es6小组&quot;]\n</code></pre><h4>使用注意点</h4>\n<ul>\n<li>函数体内的this对象，就是定义时所在的对象，而不是使用时所在的对象。</li>\n<li>不可以当作构造函数，也就是说，不可以使用new命令，否则会抛出一个错误。</li>\n<li>不可以使用arguments对象，该对象在函数体内不存在。如果要用，可以用 rest 参数代替。</li>\n<li>不可以使用yield命令，因此箭头函数不能用作 Generator 函数。</li>\n</ul>\n<h3>五、rest 参数</h3>\n<p><strong>ES6 引入 rest 参数（形式为…变量名），用于获取函数的多余参数，这样就不需要使用arguments对象了。</strong></p>\n<p><strong>rest 参数搭配的变量是一个数组，该变量将多余的参数放入数组中。</strong>\n我们举个例子：如何实现一个求和函数？</p>\n<p><strong>传统写法：</strong></p>\n<pre class=\"prettyprint language-javascript\"><code>function addNumbers(a,b,c,d,e){\n  var numbers = [a,b,c,d,e];\n  return numbers.reduce((sum,number) =&gt; {\n    return sum + number;\n  },0)\n }\n console.log(addNumbers(1,2,3,4,5));&#x2F;&#x2F;15\n</code></pre><p><strong>ES6写法：</strong></p>\n<pre class=\"prettyprint language-javascript\"><code> function addNumbers(...numbers){\n  return numbers.reduce((sum,number) =&gt; {\n    return sum + number;\n  },0)\n }\n console.log(addNumbers(1,2,3,4,5));&#x2F;&#x2F;15\n</code></pre><p><strong>也可以与解构赋值组合使用</strong></p>\n<pre class=\"prettyprint language-javascript\"><code>var array = [1,2,3,4,5,6];\nvar [a,b,...c] = array;\nconsole.log(a);&#x2F;&#x2F;1\nconsole.log(b);&#x2F;&#x2F;2\nconsole.log(c);&#x2F;&#x2F;[3, 4, 5, 6]\n</code></pre><p><strong>rest 参数还可以与箭头函数结合</strong></p>\n<pre class=\"prettyprint language-javascript\"><code>const numbers = (...nums) =&gt; nums;\nnumbers(1, 2, 3, 4, 5)&#x2F;&#x2F; [1,2,3,4,5]  \n</code></pre><p><strong>注意：①每个函数最多只能声明一个rest参数，而且 rest参数必须是最后一个参数，否则报错。</strong></p>\n<p><strong>②rest参数不能用于对象字面量setter之中</strong></p>\n<pre class=\"prettyprint language-javascript\"><code>let object = {\n    set name(...value){   &#x2F;&#x2F;报错\n        &#x2F;&#x2F;执行一些逻辑\n    }\n}\n</code></pre><h3>六、展开运算符</h3>\n<p>与剩余参数关联最密切的就是扩展运算符。剩余参数允许你把多个独立的参数合并到一个数组中；而扩展运算符则允许将一个数组分割，并将各个项作为分离的参数传给函数。</p>\n<p><strong>当用在字符串或数组前面时称为扩展运算符,个人觉得可以理解为rest参数的逆运算，用于将数组或字符串进行拆解</strong>。有些时候，函数不允许传入数组，此时使用展开运算符就很方便，不信的话，咱们看个例子：Math.max()方法，它接受任意数量的参数，并会返回其中的最大值。</p>\n<pre class=\"prettyprint language-javascript\"><code>let value1 = 25,                \nlet value2 = 50;\nconsole.log(Math.max(value1, value2));    &#x2F;&#x2F;    50\n</code></pre><p>但若想处理数组中的值，此时该如何找到最大值？Math.max()方法并不允许你传入一个数组。其实你可以像使用rest参数那样在该数组前添加…,并直接将其传递给 Math.max()</p>\n<pre class=\"prettyprint language-javascript\"><code>let values = [25,50,75,    100]\n&#x2F;&#x2F;等价于console.log(Math.max(25,50,75,100));\nconsole.log(Math.max(...values));    &#x2F;&#x2F;100\n</code></pre><p><strong>扩展运算符还可以与其他参数混用</strong></p>\n<pre class=\"prettyprint language-javascript\"><code>let values = [-25,-50,-75,-100]\nconsole.log(Math.max(...values,0));    &#x2F;&#x2F;0\n</code></pre><p><strong>扩展运算符拆解字符串与数组</strong></p>\n<pre class=\"prettyprint language-javascript\"><code>var array = [1,2,3,4,5];\nconsole.log(...array);&#x2F;&#x2F;1 2 3 4 5\nvar str = &quot;String&quot;;\nconsole.log(...str);&#x2F;&#x2F;S t r i n g\n</code></pre><p><strong>还可以实现拼接</strong></p>\n<pre class=\"prettyprint language-javascript\"><code>var defaultColors = [&quot;red&quot;,&quot;greed&quot;];\nvar favoriteColors = [&quot;orange&quot;,&quot;yellow&quot;];\nvar fallColors = [&quot;fire red&quot;,&quot;fall orange&quot;];\nconsole.log([&quot;blue&quot;,&quot;green&quot;,...fallColors,...defaultColors,...favoriteColors]\n&#x2F;&#x2F;[&quot;blue&quot;, &quot;green&quot;, &quot;fire red&quot;, &quot;fall orange&quot;, &quot;red&quot;, &quot;greed&quot;, &quot;orange&quot;, &quot;yellow&quot;]\n</code></pre><h3>七、解构赋值----更方便的数据访问</h3>\n<p>ES6 新增了解构，这是将一个数据结构分解为更小的部分的过程。</p>\n<h4>解构为何有用？</h4>\n<p>在ES5及更早版本中，从对象或数组中获取信息、并将特定数据存入本地变量，需要书写许多并且相似的代码。例如：</p>\n<pre class=\"prettyprint language-javascript\"><code> var expense = {\n   type: &quot;es6&quot;,\n   amount:&quot;45&quot;\n };\n var type = expense.type;\n var amount = expense.amount;\n console.log(type,amount);\n</code></pre><p>此代码提取了expense对象的type与amount值，并将其存在同名的本地变量上。虽然 这段代码看起来简单，但想象一下若有大量变量需要处理，你就必须逐个为其赋值；并且若有一个嵌套的数据结构需要遍历以寻找信息，你可能会为了一点数据而挖掘整个结构。</p>\n<p>这就是ES6为何要给对象与数组添加解构。当把数据结构分解为更小的部分时，从中提取你要的数据会变得容易许多。</p>\n<h4>对象</h4>\n<p>上个例子中如果采用对象解构的方法，就很容易获取expense对象的type与amount值。</p>\n<pre class=\"prettyprint language-javascript\"><code>const { type,amount } = expense;\nconsole.log(type,amount);\n</code></pre><p>我们再来看个例子：</p>\n<pre class=\"prettyprint language-javascript\"><code>let node = {type:&quot;Identifier&quot;,    name:&quot;foo&quot;},    \ntype = &quot;Literal&quot;,name = 5;\n({type,name}= node);&#x2F;&#x2F;    使用解构来分配不同的值 \nconsole.log(type); &#x2F;&#x2F;    &quot;Identifier&quot; \nconsole.log(name); &#x2F;&#x2F;    &quot;foo&quot;\n</code></pre><p><strong>注意:你必须用圆括号包裹解构赋值语句</strong>，这是因为暴露的花括号会被解析为代码块语句，而块语句不允许在赋值操作符（即等号）左侧出现。圆括号标示了里面的花括号并不是块语句、而应该被解释为表达式，从而允许完成赋值操作。</p>\n<p><strong>默认值：</strong>\n可以选择性地定义一个默认值，以便在指定属性不存在时使用该值。若要这么做，需要在 属性名后面添加一个等号并指定默认值，就像这样：</p>\n<pre class=\"prettyprint language-javascript\"><code>let node = {\n  type: &quot;Identifier&quot;,\n  name: &quot;foo&quot;\n};\nlet {\n  type,\n  name,\n  value = true\n} = node;\nconsole.log(type); &#x2F;&#x2F;    &quot;Identifier&quot; \nconsole.log(name); &#x2F;&#x2F;    &quot;foo&quot; \nconsole.log(value); &#x2F;&#x2F;    true\n</code></pre><p><strong>嵌套对象解构：</strong>\n使用类似于对象字面量的语法，可以深入到嵌套的对象结构中去提取你想要的数据。</p>\n<pre class=\"prettyprint language-javascript\"><code>let node = {\n  type: &quot;Identifier&quot;,\n  name: &quot;foo&quot;,\n  loc: {\n    start: {\n      line: 1,\n      column: 1\n    },\n    end: {\n      line: 1,\n      column: 4\n    }\n  }\n};\nlet { loc: { start }} = node;\nconsole.log(start.line); &#x2F;&#x2F;    1 \nconsole.log(start.column); &#x2F;&#x2F;    1\n</code></pre><p>本例中的解构模式使用了花括号，表示应当下行到node对象的loc属性内部去寻找start属性。</p>\n<p><strong>必须传值的解构参数</strong></p>\n<pre class=\"prettyprint language-javascript\"><code>function setCookie(name, value, {\n  secure,\n  path,\n  domain,\n  expires\n}) {\n  &#x2F;&#x2F;    设置cookie的代码 \n}\nsetCookie(&quot;type&quot;, &quot;js&quot;);&#x2F;&#x2F;报错\n</code></pre><p>在此函数内，name与value参数是必需的，而secure、path、domain与expires则不是。默认情况下调用函数时未给参数解构传值会抛出错误。像上例中如果setCookie不传第三个参数，就会报错。若解构参数是可选的，可以给解构的参数提供默认值来处理这种错误。</p>\n<pre class=\"prettyprint language-javascript\"><code>function setCookie(name, value, {\n  secure,\n  path,\n  domain,\n  expires\n} = {}) {}\nsetCookie(&quot;type&quot;, &quot;js&quot;);&#x2F;&#x2F;不会报错\n</code></pre><h4>数组</h4>\n<pre class=\"prettyprint language-javascript\"><code>const names = [&quot;Henry&quot;,&quot;Bucky&quot;,&quot;Emily&quot;];\nconst [name1,name2,name3] = names;\nconsole.log(name1,name2,name3);&#x2F;&#x2F;Henry Bucky Emily\nconst [name,...rest] = names;&#x2F;&#x2F;结合展开运算符\nconsole.log(rest);&#x2F;&#x2F;[&quot;Bucky&quot;, &quot;Emily&quot;]\n</code></pre><p><strong>用{}解构返回数组个数</strong></p>\n<pre class=\"prettyprint language-javascript\"><code>const {length} = names;\nconsole.log(length);&#x2F;&#x2F;3\n</code></pre><p><strong>数组解构也可以用于赋值上下文，但不需要用小括号包裹表达式</strong>。这点跟对象解构的约定不同。</p>\n<pre class=\"prettyprint language-javascript\"><code>let colors = [&quot;red&quot;, &quot;green&quot;, &quot;blue&quot;],\n  firstColor = &quot;black&quot;,\n  secondColor = &quot;purple&quot;;\n[firstColor, secondColor] = colors;\nconsole.log(firstColor); &#x2F;&#x2F;    &quot;red&quot; \nconsole.log(secondColor);    &#x2F;&#x2F; &quot;green&quot;\n</code></pre><p><strong>默认值</strong>：数组解构赋值同样允许在数组任意位置指定默认值。当指定位置的项不存在、或其值为undefined，那么该默认值就会被使用。</p>\n<pre class=\"prettyprint language-javascript\"><code>let colors = [&quot;red&quot;];\nlet [firstColor, secondColor = &quot;green&quot;] = colors;\nconsole.log(firstColor); &#x2F;&#x2F;    &quot;red&quot; \nconsole.log(secondColor);&#x2F;&#x2F;    &quot;green&quot;\n</code></pre><p><strong>与rest参数搭配</strong></p>\n<p>在ES5中常常使用concat()方法来克隆数组，例如：</p>\n<pre class=\"prettyprint language-javascript\"><code>&#x2F;&#x2F;在ES5中克隆数组 \nvar colors = [&quot;red&quot;, &quot;green&quot;, &quot;blue&quot;];\nvar clonedColors = colors.concat();\nconsole.log(clonedColors); &#x2F;&#x2F;&quot;[red,green,blue]&quot;\n</code></pre><p>在ES6中，你可以使用剩余项的语法来达到同样效果</p>\n<pre class=\"prettyprint language-javascript\"><code>&#x2F;&#x2F;在ES6中克隆数组 \nlet colors = [&quot;red&quot;, &quot;green&quot;, &quot;blue&quot;];\nlet [...clonedColors] = colors;\nconsole.log(clonedColors); &#x2F;&#x2F;[red,green,blue]\n</code></pre><p>接下我们看个例子：如何将数组转化为对象</p>\n<pre class=\"prettyprint language-javascrript\"><code>const points = [\n  [4,5],\n  [10,1],\n  [0,40]\n];\n&#x2F;&#x2F;期望得到的数据格式如下，如何实现？\n&#x2F;&#x2F; [\n&#x2F;&#x2F;   {x:4,y:5},\n&#x2F;&#x2F;   {x:10,y:1},\n&#x2F;&#x2F;   {x:0,y:40}\n&#x2F;&#x2F; ]\nlet newPoints = points.map(pair =&gt; {\n  const [x,y] = pair;\n  return {x,y}\n})\n&#x2F;&#x2F;还可以通过以下办法，更为简便\nlet newPoints = points.map(([x,y]) =&gt; {\n  return {x,y}\n})\nconsole.log(newPoints);\n</code></pre><p><strong>混合解构</strong></p>\n<pre class=\"prettyprint language-javascript\"><code>const people = [\n  {name:&quot;Henry&quot;,age:20},\n  {name:&quot;Bucky&quot;,age:25},\n  {name:&quot;Emily&quot;,age:30}\n];\n&#x2F;&#x2F;es5 写法 \nvar age = people[0].age;\nconsole.log(age);\n&#x2F;&#x2F;es6 解构\nconst [age] = people;\nconsole.log(age);&#x2F;&#x2F;第一次解构数组 {name:&quot;Henry&quot;,age:20}\nconst [{age}] = people;&#x2F;&#x2F;再一次解构对象\nconsole.log(age);&#x2F;&#x2F;20\n</code></pre><h4>注意点</h4>\n<p>当使用解构来配合var、let、const来声明变量时，必须提供初始化程序（即等号右边的值）。下面的代码都会因为缺失初始化程序而抛出语法错误：</p>\n<pre class=\"prettyprint language-javascript\"><code>var { type, name }; &#x2F;&#x2F; 语法错误！ \nlet { type, name }; &#x2F;&#x2F; 语法错误！\nconst { type, name }; &#x2F;&#x2F; 语法错误！\n</code></pre><h3>八、模板字符串（template string）</h3>\n<p>模板字符串是增强版的字符串，用反引号（`）标识。<strong>它可以当作普通字符串使用，也可以用来定义多行字符串，或者在字符串中嵌入变量。模板字符串中嵌入变量和函数，需要将变量名写在${}之中。</strong></p>\n<pre class=\"prettyprint language-javascript\"><code>let name = &quot;Henry&quot;;\nfunction makeUppercase(word){\n  return word.toUpperCase();\n}\nlet template = \n  &#96;\n  &lt;h1&gt;${makeUppercase(&#x27;Hello&#x27;)}, ${name}!&lt;&#x2F;h1&gt;&#x2F;&#x2F;可以存放函数和变量\n  &lt;p&gt;感谢大家收看我们的视频, ES6为我们提供了很多遍历好用的方法和语法!&lt;&#x2F;p&gt;\n  &lt;ul&gt;\n    &lt;li&gt;1&lt;&#x2F;li&gt;\n    &lt;li&gt;2&lt;&#x2F;li&gt;\n    &lt;li&gt;3&lt;&#x2F;li&gt;\n    &lt;li&gt;4&lt;&#x2F;li&gt;\n    &lt;li&gt;5&lt;&#x2F;li&gt;\n  &lt;&#x2F;ul&gt;\n  &#96;;\ndocument.getElementById(&#x27;template&#x27;).innerHTML = template;\n</code></pre><p><img src=\"https://image.fundebug.com/2018-11-29-henry.png\" alt></p>\n<p>再举个例子，工作中常用到ElementUI库，在自定义一个弹出框时，使用模板字符串就很方便:</p>\n<pre class=\"prettyprint language-javascript\"><code>   await this.$alert(\n          &#96;&lt;p&gt;&lt;strong&gt;确认是否升级${\n            this.lectureName\n          }&lt;&#x2F;strong&gt;&lt;br&gt;(若已存在讲义套件，升级后请重新生成)&lt;&#x2F;p&gt;&#96;,\n          {\n            dangerouslyUseHTMLString: true\n          }\n        )\n</code></pre><h3>九、Class 和传统构造函数有何区别</h3>\n<p>从概念上讲，在 ES6 之前的 JS 中并没有和其他面向对象语言那样的“类”的概念。长时间里，人们把使用 new 关键字通过函数（也叫构造器）构造对象当做“类”来使用。由于 JS 不支持原生的类，而只是通过原型来模拟，各种模拟类的方式相对于传统的面向对象方式来说非常混乱，尤其是处理当子类继承父类、子类要调用父类的方法等等需求时。\nES6提供了更接近传统语言的写法，引入了Class（类）这个概念，作为对象的模板。通过class关键字，可以定义类。<strong>但是类只是基于原型的面向对象模式的语法糖</strong>。</p>\n<h4>对比在传统构造函数和 ES6 中分别如何实现类：</h4>\n<pre class=\"prettyprint language-javascript\"><code>&#x2F;&#x2F;传统构造函数\nfunction MathHandle(x,y){\n  this.x=x；\n  this.y=y；\n}\nMathHandle.prototype.add =function（）{\n  return this.x+this.y；\n}；\nvar m=new MathHandle(1,2）；\nconsole.log(m.add()）\n&#x2F;&#x2F;class语法\nclass MathHandle {\n constructor(x,y){\n  this.x=x；\n  this.y=y；\n}\n add(){\n   return this.x+this.y；\n  }\n}\nconst m=new MathHandle(1,2);\nconsole.log(m.add()）\n</code></pre><p>这两者有什么联系？其实这两者本质是一样的，只不过是语法糖写法上有区别。所谓语法糖是指计算机语言中添加的某种语法，这种语法对语言的功能没有影响，但是更方便程序员使用。比如这里class语法糖让程序更加简洁，有更高的可读性。</p>\n<pre class=\"prettyprint language-javascript\"><code>typeof MathHandle &#x2F;&#x2F;&quot;function&quot;\nMathHandle===MathHandle.prototype.constructor &#x2F;&#x2F;true\n</code></pre><h4>对比在传统构造函数和 ES6 中分别如何实现继承：</h4>\n<pre class=\"prettyprint language-javascript\"><code>&#x2F;&#x2F;传统构造函数继承\nfunction Animal() {\n    this.eat = function () {\n        alert(&#x27;Animal eat&#x27;)\n    }\n}\nfunction Dog() {\n    this.bark = function () {\n        alert(&#x27;Dog bark&#x27;)\n    }\n}\nDog.prototype = new Animal()&#x2F;&#x2F; 绑定原型，实现继承\nvar hashiqi = new Dog()\nhashiqi.bark()&#x2F;&#x2F;Dog bark\nhashiqi.eat()&#x2F;&#x2F;Animal eat\n&#x2F;&#x2F;ES6继承\nclass Animal {\n    constructor(name) {\n        this.name = name\n    }\n    eat() {\n        alert(this.name + &#x27; eat&#x27;)\n    }\n}\nclass Dog extends Animal {\n    constructor(name) {\n        super(name) &#x2F;&#x2F; 有extend就必须要有super，它代表父类的构造函数，即Animal中的constructor\n        this.name = name\n    }\n    say() {\n        alert(this.name + &#x27; say&#x27;)\n    }\n}\nconst dog = new Dog(&#x27;哈士奇&#x27;)\ndog.say()&#x2F;&#x2F;哈士奇 say\ndog.eat()&#x2F;&#x2F;哈士奇 eat\n</code></pre><p>Class之间可以通过extends关键字实现继承，这比ES5的通过修改原型链实现继承，要清晰和方便很多。</p>\n<h4>Class 和传统构造函数有何区别</h4>\n<ul>\n<li>Class 在语法上更加贴合面向对象的写法</li>\n<li>Class 实现继承更加易读、易理解，对初学者更加友好</li>\n<li>本质还是语法糖，使用prototype</li>\n</ul>\n<h3>十、Promise的基本使用和原理</h3>\n<p>在JavaScript的世界中，所有代码都是单线程执行的。由于这个“缺陷”，导致JavaScript的所有网络操作，浏览器事件，都必须是异步执行。<strong>Promise 是异步编程的一种解决方案，比传统的解决方案(回调函数和事件)更合理和更强大。</strong></p>\n<p><img src=\"https://image.fundebug.com/2018-11-29-callback.png\" alt></p>\n<p>ES6中的promise的出现给我们很好的解决了<strong>回调地狱</strong>的问题，所谓的回调地狱是指当太多的异步步骤需要一步一步执行，或者一个函数里有太多的异步操作，这时候就会产生大量嵌套的回调，使代码嵌套太深而难以阅读和维护。ES6认识到了这点问题，现在promise的使用，完美解决了这个问题。</p>\n<h4>Promise原理</h4>\n<p>一旦状态改变，就不会再变，任何时候都可以得到这个结果。Promise对象的状态改变，只有两种可能：从pending变为fulfilled和从pending变为rejected。<strong>promise 对象初始化状态为 pending ；当调用resolve(成功)，会由pending =&gt; fulfilled ；当调用reject(失败)，会由pending =&gt; rejected</strong>。具体流程见下图：</p>\n<p><img src=\"https://image.fundebug.com/2018-11-29-promise.png\" alt></p>\n<h4>Promise的使用流程</h4>\n<ol>\n<li>new Promise一个实例，而且要 return</li>\n<li>new Promise 时要传入函数，函数有resolve reject 两个参数</li>\n<li>成功时执行 resolve，失败时执行reject</li>\n<li>then 监听结果</li>\n</ol>\n<pre class=\"prettyprint language-javascript\"><code>function loadImg(src){\n   const promise=new Promise(function(resolve,reject){\n     var img=document.createElement（&#x27;img&#x27;）\n     img.onload=function(){\n        resolve(img)\n   }\n     img.onerror=function（）{\n        reject()\n   }\n    img.src=src\n })\n  return promise&#x2F;&#x2F;返回一个promise实例\n}\nvar src=&quot;http:&#x2F;&#x2F;www.imooc.com&#x2F;static&#x2F;img&#x2F;index&#x2F;logo_new.png&quot;\nvar result=loadImg(src)\nresult.then(function(img){\n    console.log(img.width)&#x2F;&#x2F;resolved(成功)时候的回调函数\n},function(){\n    console.log(&quot;failed&quot;)&#x2F;&#x2F;rejected(失败)时候的回调函数\n})\nresult.then(function(img){\n    console.log(img.height)\n})\n</code></pre><p>promise会让代码变得更容易维护，像写同步代码一样写异步代码,同时业务逻辑也更易懂。</p>\n<h3>十一、Iterator 和 for…of 循环</h3>\n<p>JavaScript 原有的表示“集合”的数据结构，主要是数组（Array）和对象（Object），ES6 又添加了Map和Set。这样就需要一种统一的接口机制，来处理所有不同的数据结构。遍历器（Iterator）就是这样一种机制。它是一种接口，为各种不同的数据结构提供统一的访问机制。<strong>任何数据结构只要部署 Iterator 接口，就可以完成遍历操作（即依次处理该数据结构的所有成员）</strong>。</p>\n<h4>Iterator的作用：</h4>\n<ul>\n<li>为各种数据结构，提供一个统一的、简便的访问接口；</li>\n<li>使得数据结构的成员能够按某种次序排列</li>\n<li>ES6创造了一种新的遍历命令for…of循环，Iterator接口主要供for…of消费。</li>\n</ul>\n<h4>原生具备iterator接口的数据(可用for of遍历)</h4>\n<ul>\n<li>Array</li>\n<li>set容器</li>\n<li>map容器</li>\n<li>String</li>\n<li>函数的 arguments 对象</li>\n<li>NodeList 对象</li>\n</ul>\n<pre class=\"prettyprint language-javascript\"><code>let arr3 = [1, 2, &#x27;kobe&#x27;, true];\nfor(let i of arr3){\n   console.log(i); &#x2F;&#x2F; 1 2 kobe true\n}\nlet str = &#x27;abcd&#x27;;\nfor(let item of str){\n   console.log(item); &#x2F;&#x2F; a b c d\n}   \nvar engines = new Set([&quot;Gecko&quot;, &quot;Trident&quot;, &quot;Webkit&quot;, &quot;Webkit&quot;]);\nfor (var e of engines) {\n  console.log(e);\n}\n&#x2F;&#x2F; Gecko\n&#x2F;&#x2F; Trident\n&#x2F;&#x2F; Webkit   \n</code></pre><h4>几种遍历方式比较</h4>\n<ul>\n<li>for of 循环不仅支持数组、大多数伪数组对象，也支持字符串遍历，此外还支持 Map 和 Set 对象遍历。</li>\n<li>for in循环可以遍历字符串、对象、数组，不能遍历Set/Map</li>\n<li>forEach 循环不能遍历字符串、对象,可以遍历Set/Map</li>\n</ul>\n<h3>十二、ES6模块化</h3>\n<p>ES6 在语言标准的层面上，实现了模块功能，而且实现得相当简单，旨在成为浏览器和服务器通用的模块解决方案。<strong>其模块功能主要由两个命令构成：export和import。export命令用于规定模块的对外接口，import命令用于输入其他模块提供的功能。</strong></p>\n<pre class=\"prettyprint language-javascript\"><code>&#x2F;** 定义模块 math.js **&#x2F;\nvar basicNum = 0;\nvar add = function (a, b) {\n    return a + b;\n};\nexport { basicNum, add };\n&#x2F;** 引用模块 **&#x2F;\nimport { basicNum, add } from &#x27;.&#x2F;math&#x27;;\nfunction test(ele) {\n    ele.textContent = add(99 + basicNum);\n}\n</code></pre><p>如上例所示，使用import命令的时候，用户需要知道所要加载的变量名或函数名，否则无法加载。为了给用户提供方便，让他们不用阅读文档就能加载模块，就要用到export default命令，为模块指定默认输出。</p>\n<pre class=\"prettyprint language-javascript\"><code>&#x2F;&#x2F; export-default.js\nexport default function () {\n  console.log(&#x27;foo&#x27;);\n}\n</code></pre><p>上面代码是一个模块文件export-default.js，它的默认输出是一个函数。\n<strong>其他模块加载该模块时，import命令可以为该匿名函数指定任意名字。</strong></p>\n<pre class=\"prettyprint language-javascript\"><code>&#x2F;&#x2F; import-default.js\nimport customName from &#x27;.&#x2F;export-default&#x27;;\ncustomName(); &#x2F;&#x2F; &#x27;foo&#x27;\n</code></pre><p>上面代码的import命令，可以用任意名称指向export-default.js输出的方法，这时就不需要知道原模块输出的函数名。<strong>需要注意的是，这时import命令后面，不使用大括号。</strong></p>\n<p><strong>如果觉得文章对你有些许帮助，欢迎在我的GitHub博客点赞和关注，感激不尽！</strong></p>\n<h3>参考文章</h3>\n<ul>\n<li><a href=\"http://www.cnblogs.com/yzg1/p/5776171.html\">ES6笔记（一）：ES6所改良的javascript“缺陷”</a></li>\n<li><a href=\"https://www.h5jun.com/post/5-javascript-%E2%80%9Cbad%E2%80%9D-parts-that-are-fixed-in-es6.html\">在 ES6 中 改良的 5 个 JavaScript “缺陷”</a></li>\n<li><a href=\"http://es6.ruanyifeng.com/\">ECMAScript 6 入门</a></li>\n<li><a href=\"https://book.douban.com/subject/27072230/\">深入理解ES6</a></li>\n<li><a href=\"https://zhuanlan.zhihu.com/p/32038245\">ES6的rest参数和扩展运算符</a></li>\n</ul>\n</div>",
+            "title": "ES6核心特性",
+            "last_reply_at": "2018-11-30T03:02:44.456Z",
+            "good": false,
+            "top": false,
+            "reply_count": 4,
+            "visit_count": 724,
+            "create_at": "2018-11-29T06:49:31.178Z",
+            "author": {
+                "loginname": "Fundebug",
+                "avatar_url": "https://avatars2.githubusercontent.com/u/26496557?v=4&s=120"
+            }
+        },
+        {
+            "id": "5bfd6682d6104a4f803a234d",
+            "author_id": "5bfd65d4be1b120abac5d838",
+            "tab": "ask",
+            "content": "<div class=\"markdown-text\"><p>求好心的大佬，耐心的带我看懂API文档。\n以前是做c#的。node.js api 实在看不懂。懂的人教我下。</p>\n<p>希望答主，能耐心解答一下。越全面越好，有助于我理解。</p>\n<hr>\n<p><img src=\"//static.cnodejs.org/FlDDcWmkt0-SZPyoICv1ZMyCq-oR\" alt=\"1543332567520.png\">\n比如这里又中括号，又中括号加逗号，又是啥意思。</p>\n<hr>\n<p>还有 返回参数 是一个 http.Server 的实例。\n我看到代码是这样写的</p>\n<pre class=\"prettyprint language-javascript\"><code>var server = http.createServer();\nserver.on(&quot;request&quot;, function(){\n   console.log(&quot;收到客户端链接&quot;); \n});\n</code></pre><p><img src=\"//static.cnodejs.org/Fk2pSRXEHCQFU8iekdC3tTgjfXX5\" alt=\"1543332774664.png\">\n但是API文档里面 没有on这个函数啊， 我大概能理解 on 应该是侦听 request 这个事件，那么移除事件怎么写呢？ 我该如何从API文档上面找到，除了on，还有其他的什么函数。</p>\n<hr>\n<p>还有其他的API，写的参数。看着头好晕，根本看不懂写的啥\n<img src=\"//static.cnodejs.org/Fv-JBB71JVIFWccJz3JGli8X66zo\" alt=\"1543333064336.png\"></p>\n<hr>\n<p>还有我明明看到API文档里某个函数里，写的有4个参数，其中最后一个参数才是 callback 函数。 可以写实例代码的时候，却是第三个参数就是 callback 函数。 我感觉还是我 API文档理解的有问题，望好心人，耐心的解答一下。。。</p>\n<p>谢谢啦。\n只要API文档理解了，我应该就可以node.js入门啦。</p>\n<p>我是在这里看的API文档：<a href=\"http://nodejs.cn/api/fs.html\">http://nodejs.cn/api/fs.html</a></p>\n</div>",
+            "title": "求好心的大佬。能教教我如何看API文档。 我看node.js的文档，头好晕。",
+            "last_reply_at": "2018-11-30T02:17:57.547Z",
+            "good": false,
+            "top": false,
+            "reply_count": 13,
+            "visit_count": 959,
+            "create_at": "2018-11-27T15:45:06.396Z",
+            "author": {
+                "loginname": "Aaron009",
+                "avatar_url": "https://avatars1.githubusercontent.com/u/3838050?v=4&s=120"
+            }
+        },
+        {
+            "id": "5bfeb07ad6104a4f803a28f4",
+            "author_id": "5bfa5d31be1b120abac5c973",
+            "tab": "share",
+            "content": "<div class=\"markdown-text\"><h1>VueSocial</h1>\n<p><a href=\"http://47.107.66.252:3001/public/dist/#/home\">VueSocial</a> something like QQ、weibo、weixin（仿微博、微信的聊天社交平台）前后端分离的vue+express+socket.io练手项目 前端代码在BlogPhone下，后端代码在server下。如果你觉得这个项目还不错的话，你的star是对我最好的鼓励。</p>\n<hr>\n<h2>预览</h2>\n<p>在线demo <a href=\"http://47.107.66.252:3001/public/dist/#/home\">http://47.107.66.252:3001/public/dist/#/home</a> （pc端按了f12后有个小问题，刷新一下就好,resize触发的问题，待改进）\n<a href=\"https://github.com/CBDxin/VueSocial\">github地址</a></p>\n<h3>首页</h3>\n<p><img src=\"https://upload-images.jianshu.io/upload_images/13434832-a93efd387d8f785d.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/450\" alt=\"微信图片_20181118231148.jpg\"></p>\n<h3>消息</h3>\n<p><img src=\"https://upload-images.jianshu.io/upload_images/13434832-3c16c582cabf0c64.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/450\" alt=\"微信图片_20181118231142.jpg\"></p>\n<h3>聊天</h3>\n<p><img src=\"https://upload-images.jianshu.io/upload_images/13434832-d2c80908073ce036.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/450\" alt=\"微信图片_20181118231154.jpg\"></p>\n<h3>个人主页</h3>\n<p><img src=\"https://upload-images.jianshu.io/upload_images/13434832-c413e3834c8571df.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/450\" alt=\"微信图片_20181118231131.jpg\"></p>\n<h3>分享动态</h3>\n<p><img src=\"https://upload-images.jianshu.io/upload_images/13434832-2498e542f5e05bff.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/450\" alt=\"微信图片_20181118231054.jpg\"></p>\n<h3>更改头像</h3>\n<p><img src=\"https://upload-images.jianshu.io/upload_images/13434832-13cf4c7903c02766.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/450\" alt=\"微信图片_20181118231115.jpg\"></p>\n<h3>搜索页面</h3>\n<p><img src=\"https://upload-images.jianshu.io/upload_images/13434832-fd5d44764b4645d1.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/450\" alt=\"微信图片_20181118231126.jpg\">\n<img src=\"https://upload-images.jianshu.io/upload_images/13434832-13be4267587d68f4.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/450\" alt=\"微信图片_20181118231137.jpg\"></p>\n<hr>\n<h2>技术栈</h2>\n<ol>\n<li>vue：前端框架</li>\n<li>express：后端框架</li>\n<li><a href=\"http://socket.io\">socket.io</a>：实现实时消息推送</li>\n<li>axios：一个基于 Promise 的 HTTP 库，发送ajax请求</li>\n<li>localStorage：浏览器本地存储</li>\n<li>Webpack：模块打包工具，前端项目构建工具</li>\n<li>mongoose：mongodb的框架</li>\n<li>better-scroll:一款重点解决移动端(已支持 PC)各种滚动场景需求的插件</li>\n</ol>\n<hr>\n<h2>已实现功能</h2>\n<ol>\n<li>登录注册</li>\n<li>图片分享：上传本地图片到云服务器（我用的是阿里云的oss，可以根据自己的情况修改router/upload.js的代码）</li>\n<li>头像修改</li>\n<li>评论：<a href=\"http://socket.io\">socket.io</a></li>\n<li>实时消息推送</li>\n<li>查看个人主页</li>\n<li>实时聊天：<a href=\"http://socket.io\">socket.io</a></li>\n<li>首页下拉刷新：better-scroll</li>\n<li>搜索：搜索用户与动态、使用localStorage保存历史搜索记录</li>\n</ol>\n<hr>\n<h2>待改进</h2>\n<ol>\n<li>同一个用户多个设备同时登录时socket.io会出现问题，所以要限制登录？还是修改数据库结构？</li>\n<li>移动端的坑：有的浏览器会卡顿、Safari监听不到输入框按下搜索键（内心是崩溃的）</li>\n<li>resize时better-scroll的小bug</li>\n<li>没做分页请求，都是一次性请求全部数据</li>\n<li>评论。。。的名字直接用usename了。。。改名后会有问题。。。。有空在改</li>\n</ol>\n<hr>\n<h2>安装</h2>\n<p>分别两个文件目录下安装依赖npm install，在server文件夹下node app.js,在blogPhone下npm run dev，然后打开localhost：8081就可以了</p>\n<hr>\n<h2>分析总结</h2>\n<h3><a href=\"http://socket.io\">socket.io</a></h3>\n<h2>引入socket. io</h2>\n<p><strong>服务端:</strong></p>\n<pre class=\"prettyprint\"><code>\n  let serve = app.listen(3001);\n\n  const io = socketio(serve);\n\n  io.on(&#x27;connection&#x27;, socket =&gt; {\n\n    socket.on(&#x27;login&#x27;, (username) =&gt; {\n\n                console.log(username+&#x27;上线了！&#x27;);\n\n            });\n\n  }\n\n</code></pre><p><strong>客户端:</strong></p>\n<p>在index中引入</p>\n<pre class=\"prettyprint\"><code>&lt;script src=&quot;http:&#x2F;&#x2F;47.107.66.252:3001&#x2F;socket.io&#x2F;socket.io.js&quot;&gt;&lt;&#x2F;script&gt;\n\n    &lt;script type=&quot;text&#x2F;javascript&quot;&gt;\n\n      const socket = io.connect(&#x27;http:&#x2F;&#x2F;47.107.66.252:3001&#x27;);\n\n    &lt;&#x2F;script&gt;\n</code></pre><h2>整体思路</h2>\n<p>把需要用到的数据存放在vuex中，在app.vue的updateBySocket()函数中整体监听服务端emit的事件，根据路由信息判断数据是要做一般处理还是交给对话框页面进行处理</p>\n<h2>核心代码</h2>\n<h3>服务端（express实现）</h3>\n<pre class=\"prettyprint\"><code>        let serve = app.listen(3001);\n        const io = socketio(serve);\n        io.on(&#x27;connection&#x27;, socket =&gt; {\n            const socketId = socket.id;\n            &#x2F;&#x2F;登录时建立一个username到socketId的映射表\n            socket.on(&#x27;login&#x27;, (username) =&gt; {\n                socketHandler.saveUserSocketId(username, socketId)\n            });\n\n            socket.on(&#x27;chat&#x27;,(data) =&gt; {\n                Idtoid.findOne({\n                    username: data.to_user\n                }).then((rs) =&gt; {\n                &#x2F;&#x2F;根据用户名在映射表中找到对应的socketId\n                    io.to(rs.socketid).emit(&#x27;receiveMsg&#x27;,{\n                        from_user:data.from_user,\n                        message:data.message,\n                        time:data.time,\n                        avater:data.avater,\n                        _id:data._id\n                    })\n                })\n            })\n        })\n</code></pre><h3>app.vue</h3>\n<p><code>update_chatList</code>:更新聊天列表的mutation</p>\n<pre class=\"prettyprint\"><code>...mapMutations([\n        &#x27;update_chatList&#x27;\n      ]),\nupdateBySocket() {\n        socket.removeAllListeners();\n        socket.on(&#x27;receiveMsg&#x27;, (data) =&gt; {\n          let from_user = data.from_user;\n          &#x2F;&#x2F;如果当前页面为与from_user的对话框，则交由对话框页面处理\n          if (this.$route.query.chatwith == from_user) {\n            return;\n          }\n          this.update_chatList(data);\n        })\n      }\n</code></pre><h3>对话框页面 chat.vue</h3>\n<p><code>dataList</code>：当前对话框的聊天记录</p>\n<pre class=\"prettyprint\"><code>&#x2F;&#x2F;发送消息\n      sendMessage() {\n        if (!this.userInfo._id){\n          Toast(&quot;请先登录！&quot;);\n          return;\n        }\n        if (this.content == &#x27;&#x27;) {\n          return;\n        }\n        this.axios.post(&#x27;&#x2F;chat&#x2F;chatwith&#x27;, {&#x2F;&#x2F;向后端传输聊天记录\n          chatWithId: this.tUserInfo._id,\n          user_id: this.userInfo._id,\n          content: this.content\n        }).then((result) =&gt; {\n          &#x2F;&#x2F;把自己发送的内容更新到dataList中\n          this.dataList.push({\n            user_id: {&#x2F;&#x2F;这个有点乱了，这个是自己的信息\n              avater: this.userInfo.avater\n            },\n            chatWith: {\n              _id: this.chatWithId\n            },\n            addTime: Date.now(),\n            content: this.content\n          });\n          &#x2F;&#x2F;更新聊天用户的列表\n          this.update_chatList({\n            _id: this.tUserInfo._id,&#x2F;&#x2F;自己的id\n            from_user: this.chatWith,&#x2F;&#x2F;与你聊天的用户\n            message: this.content,&#x2F;&#x2F;消息内容\n            time: Date.now(),&#x2F;&#x2F;时间);\n            me: true,&#x2F;&#x2F;判别是不是自己发送的\n            avater:this.tUserInfo.avater\n          });\n          &#x2F;&#x2F;要发送给对方的数据\n          let data = {\n            from_user: this.userInfo.username,&#x2F;&#x2F;发送方\n            to_user: this.chatWith,&#x2F;&#x2F;接收方\n            message: this.content,&#x2F;&#x2F;消息内容\n            time: Date.now(), &#x2F;&#x2F;时间);\n            avater: this.userInfo.avater,\n            _id: this.userInfo._id\n          };\n          socket.emit(&#x27;chat&#x27;, data);\n          this.content = &#x27;&#x27;;\n        })\n      },\n      updateBySocket() {\n        socket.on(&#x27;receiveMsg&#x27;, (data) =&gt; {\n          &#x2F;&#x2F;判断一下是不是当前的对话框\n          if (data.from_user == this.chatWith) {\n            &#x2F;&#x2F;把收到的消息保存到聊天记录中\n            this.dataList.push({\n              chatWith: {\n                _id: this.userInfo._id\n              },\n              user_id: {&#x2F;&#x2F;自己的信息\n                avater: data.avater\n              },\n              addTime: data.addTime,\n              content: data.message\n            });\n            this.update_chatList({\n              _id: this.tUserInfo._id,\n              from_user: this.chatWith,&#x2F;&#x2F;与你聊天的用户\n              message: data.message,&#x2F;&#x2F;消息内容\n              time: data.addTime,&#x2F;&#x2F;时间);\n              me: true,&#x2F;&#x2F;判别是不是自己当前页面\n              avater:this.tUserInfo.avater\n            });\n          }\n        })\n      }\n</code></pre><h2>vuex mutation.js</h2>\n<pre class=\"prettyprint\"><code>[types.UPDATE_CHATLIST](state, data) {\n    let flag = 0;&#x2F;&#x2F;判断新的聊天是否存在于当前的列表中\n    state.chatList.forEach((item)=&gt;{\n      if (item.chatWith.username == data.from_user) {\n        flag = 1;\n        if (!data.me) {&#x2F;&#x2F;判断当前是否在对话框页面中\n          item.unread++;\n          state.unread++;\n        }\n        &#x2F;&#x2F;更新\n        item.content = data.message;\n        item.addTime = data.time;\n        &#x2F;&#x2F;按添加时间排序\n        state.chatList.sort((a, b) =&gt; {\n          return new Date(b.addTime) - new Date(a.addTime)\n        });\n        &#x2F;&#x2F;跳出循环\n        return false;\n      }\n    });\n    &#x2F;&#x2F;是新的并且不在对话框页面\n    if (!flag&amp;&amp;!data.me) {\n      &#x2F;&#x2F;添加到第一条\n      state.chatList.unshift({\n        chatWith: {\n          avater: data.avater,\n          username: data.from_user,\n          _id: data._id\n        },\n        addTime: data.time,\n        content: data.message,\n        unread: 1\n      });\n        state.unread++;\n    }else if (!flag&amp;&amp;data.me){&#x2F;&#x2F;新的并且在对话框页面，不需要增加unread\n      state.chatList.unshift({\n        chatWith: {\n          avater: data.avater,\n          username: data.from_user,\n          _id: data._id\n        },\n        addTime: data.time,\n        content: data.message,\n      });\n    }\n  }\n</code></pre><h2>总结</h2>\n<p>socket.io的简单使用其实并不难，只要掌握好以下几个函数</p>\n<p><code>socket.emit()</code>：向建立该连接的客户端发送消息</p>\n<p><code>socket.on()</code>：监听客户端发送信息</p>\n<p><code>io.to(socketid).emit()</code>：向指定客户端发送消息</p>\n<p><code>socket.broadcast.emit()</code>：向除去建立该连接的客户端的所有客户端广播</p>\n<p><code>io.sockets.emit()</code>：向所有客户端广播</p>\n<h3>vue</h3>\n<p>总结一些项目遇到的难点</p>\n<ol>\n<li>ajax在生命周期函数created发起，dom操作在生命周期函数mounted中操作，如果需要dom元素完全挂起后在操作则还需要在$nextTick中操作，例如：</li>\n</ol>\n<pre class=\"prettyprint\"><code>mounted() {\n      this.$nextTick(() =&gt; {\n        this.initImg();\n      })\n    }\n</code></pre><ol>\n<li>动态生成（例如通过v-for）的dom元素在mounted中通过ref是获取不到的，需要在生命周期函数updated中获取</li>\n<li>keepalive后的组件如果需要在跳转进入时进行操作可通过路由守卫和生命周期函数actived配合使用，如：</li>\n</ol>\n<pre class=\"prettyprint\"><code>beforeRouteEnter(to, from, next) {\n      if (from.path == &#x27;&#x2F;upload&#x27; ) {\n        next(vm =&gt; {\n          vm._getList = true\n        })\n      } else {\n        next()\n      }\n    }\n</code></pre><pre class=\"prettyprint\"><code>activated() {\n      this.$nextTick(() =&gt; {\n        if (this._getList) {\n          this.getPyqLists();\n        }\n      })\n    }\n</code></pre><h2>图片上传及预览部分</h2>\n<p>html部分主要是借助了weui的样式</p>\n<pre class=\"prettyprint\"><code>&lt;template&gt;\n  &lt;div&gt;\n    &lt;myheader :title=&quot;&#x27;发布动态&#x27;&quot;&gt;\n      &lt;i class=&quot;iconfont icon-fanhui1 left&quot; slot=&quot;left&quot; @click=&quot;goback&quot;&gt;&lt;&#x2F;i&gt;\n    &lt;&#x2F;myheader&gt;\n    &lt;div class=&quot;upload&quot;&gt;\n      &lt;div v-if=&quot;userInfo._id&quot;&gt;\n        &lt;!--图片上传--&gt;\n        &lt;div class=&quot;weui-gallery&quot; id=&quot;gallery&quot;&gt;\n          &lt;span class=&quot;weui-gallery__img&quot; id=&quot;galleryImg&quot;&gt;&lt;&#x2F;span&gt;\n          &lt;div class=&quot;weui-gallery__opr&quot;&gt;\n            &lt;a href=&quot;javascript:&quot; class=&quot;weui-gallery__del&quot;&gt;\n              &lt;i class=&quot;weui-icon-delete weui-icon_gallery-delete&quot;&gt;&lt;&#x2F;i&gt;\n            &lt;&#x2F;a&gt;\n          &lt;&#x2F;div&gt;\n        &lt;&#x2F;div&gt;\n        &lt;div class=&quot;weui-cells weui-cells_form&quot;&gt;\n          &lt;div class=&quot;weui-cell&quot;&gt;\n            &lt;div class=&quot;weui-cell__bd&quot;&gt;\n              &lt;textarea class=&quot;weui-textarea&quot; v-model=&quot;content&quot; placeholder=&quot;你想说啥&quot; rows=&quot;3&quot;&gt;&lt;&#x2F;textarea&gt;\n            &lt;&#x2F;div&gt;\n          &lt;&#x2F;div&gt;\n          &lt;div class=&quot;weui-cell&quot;&gt;\n            &lt;div class=&quot;weui-cell__bd&quot;&gt;\n              &lt;div class=&quot;weui-uploader&quot;&gt;\n                &lt;div class=&quot;weui-uploader__bd&quot;&gt;\n                  &lt;ul class=&quot;weui-uploader__files&quot; id=&quot;uploaderFiles&quot;&gt;\n                    &lt;li ref=&quot;files&quot; class=&quot;weui-uploader__file&quot; v-for=&quot;(image,index) in images&quot; :key=&quot;index&quot;\n                        :style=&quot;&#x27;backgroundImage:url(&#x27; + image +&#x27; )&#x27;&quot;&gt;&lt;span @click=&quot;deleteimg(index)&quot; class=&quot;x&quot;&gt;&amp;times;&lt;&#x2F;span&gt;&lt;&#x2F;li&gt;\n                  &lt;&#x2F;ul&gt;\n                  &lt;div v-show=&quot;images.length &lt; maxCount&quot; class=&quot;weui-uploader__input-box&quot;&gt;\n                    &lt;input @change=&quot;change&quot; id=&quot;uploaderInput&quot; class=&quot;weui-uploader__input &quot; type=&quot;file&quot;\n                          multiple accept=&quot;image&#x2F;*&quot;&gt;\n                  &lt;&#x2F;div&gt;\n                &lt;&#x2F;div&gt;\n              &lt;&#x2F;div&gt;\n            &lt;&#x2F;div&gt;\n          &lt;&#x2F;div&gt;\n        &lt;&#x2F;div&gt;\n        &lt;a class=&quot;weui-btn weui-btn_primary btn-put&quot; style=&quot;margin: 20px &quot; @click.prevent.once=&quot;put&quot;&gt;发送&lt;&#x2F;a&gt;\n      &lt;&#x2F;div&gt;\n      &lt;unlogin v-else&gt; &lt;&#x2F;unlogin&gt;\n    &lt;&#x2F;div&gt;\n  &lt;&#x2F;div&gt;\n&lt;&#x2F;template&gt;\n\n</code></pre><p>重点部分在于</p>\n<pre class=\"prettyprint\"><code>&lt;ul class=&quot;weui-uploader__files&quot; id=&quot;uploaderFiles&quot;&gt;\n  &lt;li ref=&quot;files&quot; class=&quot;weui-uploader__file&quot; v-for=&quot;(image,index) in images&quot; :key=&quot;index&quot;\n      :style=&quot;&#x27;backgroundImage:url(&#x27; + image +&#x27; )&#x27;&quot;&gt;&lt;span @click=&quot;deleteimg(index)&quot; class=&quot;x&quot;&gt;&amp;times;&lt;&#x2F;span&gt;&lt;&#x2F;li&gt;\n&lt;&#x2F;ul&gt;\n&lt;div v-show=&quot;!this.$refs.files||this.$refs.files.length &lt; maxCount&quot; class=&quot;weui-uploader__input-box&quot;&gt;\n  &lt;input @change=&quot;change&quot; id=&quot;uploaderInput&quot; class=&quot;weui-uploader__input&quot; type=&quot;file&quot;\n         multiple accept=&quot;image&#x2F;*&quot;&gt;\n&lt;&#x2F;div&gt;\n</code></pre><p>通过<code>@change=&quot;change&quot;</code>监听图片的上传，把图片转成base64后（后面会讲怎么转base64）将base64的地址加入到images数组，通过<code>v-for=&quot;(image,index) in images&quot;</code>把要上传的图片在页面中显示出来，即达到了预览的效果</p>\n<p>js部分\ndata部分</p>\n<pre class=\"prettyprint\"><code>data() {\n      return {\n        content: &#x27;&#x27;,&#x2F;&#x2F;分享动态的文字内容\n        maxSize: 10240000 &#x2F; 2,&#x2F;&#x2F;图片的最大大小\n        maxCount: 8,&#x2F;&#x2F;最大数量\n        filesArr: [],&#x2F;&#x2F;保存要上传图片的数组\n        images: []&#x2F;&#x2F;转成base64后的图片的数组\n      }\n    }\n</code></pre><p>delete方法</p>\n<pre class=\"prettyprint\"><code>deleteimg(index) {\n        this.filesArr.splice(index, 1);\n        this.images.splice(index, 1);\n      }\n</code></pre><p>change方法</p>\n<pre class=\"prettyprint\"><code>change(e) {\n        let files = e.target.files;\n        &#x2F;&#x2F; 如果没有选中文件，直接返回\n        if (files.length === 0) {\n          return;\n        }\n        if (this.images.length + files.length &gt; this.maxCount) {\n          Toast(&#x27;最多只能上传&#x27; + this.maxCount + &#x27;张图片！&#x27;);\n          return;\n        }\n        let reader;\n        let file;\n        let images = this.images;\n        for (let i = 0; i &lt; files.length; i++) {\n          file = files[i];\n          this.filesArr.push(file);\n          reader = new FileReader();\n          if (file.size &gt; self.maxSize) {\n            Toast(&#x27;图片太大，不允许上传！&#x27;);\n            continue;\n          }\n          reader.onload = (e) =&gt; {\n            let img = new Image();\n            img.onload = function () {\n              let canvas = document.createElement(&#x27;canvas&#x27;);\n              let ctx = canvas.getContext(&#x27;2d&#x27;);\n              let w = img.width;\n              let h = img.height;\n              &#x2F;&#x2F; 设置 canvas 的宽度和高度\n              canvas.width = w;\n              canvas.height = h;\n              ctx.drawImage(img, 0, 0, w, h);\n              let base64 = canvas.toDataURL(&#x27;image&#x2F;png&#x27;);\n              images.push(base64);\n            };\n            img.src = e.target.result;\n          };\n          reader.readAsDataURL(file);\n        }\n      }\n</code></pre><p>put方法把filesArr中保存的图片通过axios发送到后端,注意要设置headers信息</p>\n<pre class=\"prettyprint\"><code>put() {\n        Indicator.open(&#x27;发布中...&#x27;);\n        let self = this;\n        let content = this.content;\n        let param = new FormData();\n        param.append(&#x27;content&#x27;, content);\n        param.append(&#x27;username&#x27;, this.userInfo._id);\n        this.filesArr.forEach((file) =&gt; {\n          param.append(&#x27;file2&#x27;, file);\n        });\n        self.axios.post(&#x27;&#x2F;upload&#x2F;uploadFile&#x27;, param, {\n          headers: {\n            &quot;Content-Type&quot;: &quot;application&#x2F;x-www-form-urlencoded&quot;\n          }\n        }).then(function (result) {\n          console.log(result.data);\n          self.$router.push({path: &#x27;&#x2F;home&#x27;});\n          Indicator.close();\n          Toast(result.data.msg)\n        })\n      }\n</code></pre><p>后端通过multer模块保存传输的图片，再把保存下来的图片发送到阿里云oss（这个可以根据自己的使用情况变化）</p>\n<pre class=\"prettyprint\"><code>let filePath;\nlet fileName;\n\nlet Storage = multer.diskStorage({\n    destination: function (req, file, cb) {&#x2F;&#x2F;计算图片存放地址\n        cb(null, &#x27;.&#x2F;public&#x2F;img&#x27;);\n    },\n    filename: function (req, file, cb) {&#x2F;&#x2F;图片文件名\n        fileName = Date.now() + &#x27;_&#x27; + parseInt(Math.random() * 1000000) + &#x27;.png&#x27;;\n        filePath = &#x27;.&#x2F;public&#x2F;img&#x2F;&#x27; + fileName;\n        cb(null, fileName)\n    }\n});\nlet upload = multer({storage: Storage}).any();&#x2F;&#x2F;file2表示图片上传文件的key\n\nrouter.post(&#x27;&#x2F;uploadFile&#x27;, function (req, res, next) {\n    upload(req, res, function (err) {\n        let content = req.body.content || &#x27;&#x27;;\n        let username = req.body.username;\n        let imgs = [];&#x2F;&#x2F;要保存到数据库的图片地址数组\n        if (err) {\n            return res.end(err);\n        }\n        if (req.files.length === 0) {\n            new Pyq({\n                writer: username,\n                content: content\n            }).save().then((result) =&gt; {\n                res.json({\n                    result: result,\n                    code: &#x27;0&#x27;,\n                    msg: &#x27;上传成功&#x27;\n                });\n            })\n        }\n        let i = 0;\n        req.files.forEach((item, index) =&gt; {\n            let filePath = &#96;.&#x2F;public&#x2F;img&#x2F;${item.filename}&#96;;\n            put(item.filename,filePath,(result)=&gt;{\n                imgs.push(result.url);\n                i++;\n                if (i === req.files.length) {\n                &#x2F;&#x2F;forEach循环是同步的，但上传图片是异步的，所以用一个i去标记图片是否全部上传成功\n                &#x2F;&#x2F;这时才把数据保存到数据库\n                    new Pyq({\n                        content: content,\n                        writer: username,\n                        pimg: imgs\n                    }).save().then(() =&gt; {\n                        res.json({\n                            code: &#x27;0&#x27;,\n                            msg: &#x27;发布成功&#x27;\n                        });\n                    })\n                }\n            })\n        })\n    })\n});\n</code></pre><hr>\n<h1>如果觉得这个项目对你有帮助，请留下你的star，谢谢(＾－＾)</h1>\n</div>",
+            "title": "express+vue+socket.io实现可实时聊天、分享图片的社交平台",
+            "last_reply_at": "2018-11-30T02:14:09.124Z",
+            "good": false,
+            "top": false,
+            "reply_count": 1,
+            "visit_count": 467,
+            "create_at": "2018-11-28T15:12:58.581Z",
+            "author": {
+                "loginname": "CBDxin",
+                "avatar_url": "https://avatars1.githubusercontent.com/u/42411100?v=4&s=120"
+            }
+        },
+        {
+            "id": "5bfe3983d6104a4f803a2684",
+            "author_id": "575e5645c1518403160a4584",
+            "tab": "ask",
+            "content": "<div class=\"markdown-text\"><p>因为昨天发生了这个事情, <a href=\"http://caibaojian.com/event-stream.html\">event-stream 被植入比特币后门</a>\n同事提议加入安全检测。这边主要是用于 webpack 打包代码的。</p>\n</div>",
+            "title": "npm 上有没有代码安全检查的包？类似 rails 的 brakeman",
+            "last_reply_at": "2018-11-30T02:01:46.340Z",
+            "good": false,
+            "top": false,
+            "reply_count": 1,
+            "visit_count": 379,
+            "create_at": "2018-11-28T06:45:23.609Z",
+            "author": {
+                "loginname": "jamieYou",
+                "avatar_url": "https://avatars2.githubusercontent.com/u/19544032?v=4&s=120"
+            }
+        },
+        {
+            "id": "5b164efa29e6e510415b2803",
+            "author_id": "5b164c1957137f22415c4958",
+            "tab": "ask",
+            "content": "<div class=\"markdown-text\"><p>首先，我是做移动端iOS，最近在学Node,目前再看Node in Action这本书，感觉自己有点像无头苍蝇。书中的很多例子都是构建web应用，而我的前端知识呢?还停留在小学水平，所有有点迷茫。</p>\n<p>能不能来个老司机来带带我，帮我看看怎么学习是最高效的.\n老司机们~</p>\n</div>",
+            "title": "移动端入门Node.js怎么学习?",
+            "last_reply_at": "2018-11-30T01:46:31.968Z",
+            "good": false,
+            "top": false,
+            "reply_count": 55,
+            "visit_count": 4430,
+            "create_at": "2018-06-05T08:51:06.562Z",
+            "author": {
+                "loginname": "jincc",
+                "avatar_url": "https://avatars1.githubusercontent.com/u/12285323?v=4&s=120"
+            }
+        },
+        {
+            "id": "5bfe704ad6104a4f803a2817",
+            "author_id": "57957de04265959826e7b25b",
+            "tab": "ask",
+            "content": "<div class=\"markdown-text\"><p>各位，在做项目期间，碰到一个问题，不知道如何解决，需求如下：\n管理员删除用户角色数据同时，删除角色表关联Api接口表的关联表数据。\n目前使用Sequelize，通过官网docs，没有找到相关的demo，查到有个关联方法<code>role.setapis([])</code>的方法删除关联属性。\n但是我这边一直在报错提示：<code>role.setapis is not a function</code>。<br>\n角色模型</p>\n<pre class=\"prettyprint language- javascript\"><code>module.exports = function (sequelize, DataTypes) {\n  const role = sequelize.define(&quot;role&quot;, {\n    id: {\n      field: &quot;id&quot;,                                    &#x2F;&#x2F; 别名\n      type: DataTypes.UUID,                           &#x2F;&#x2F; 类型\n      allowNull: true,\n      unique: true,                                   &#x2F;&#x2F; 是否是唯一值\n      comment: &quot;角色id字段&quot;,                           &#x2F;&#x2F; 简介说明\n      primaryKey: true,                               &#x2F;&#x2F; 是否为主键\n      defaultValue: DataTypes.UUIDV1\n    },\n    mark: {\n      field: &quot;mark&quot;,\n      type: DataTypes.BOOLEAN,\n      allowNull: false,\n      defaultValue: true,\n      comment: &quot;角色状态信息&quot;\n    },\n    role_name: {\n      field: &quot;role_name&quot;,\n      type: DataTypes.STRING,\n      allowNull: false,\n      unique: true,\n      comment: &quot;角色名称&quot;\n    },\n    desc: {\n      field: &quot;desc&quot;,\n      type: DataTypes.STRING,\n      comment: &quot;角色备注&quot;\n    }\n  },\n    {\n      tableName: &quot;role&quot;,\n      freezeTableName: true,\n      timestamps: true,\n      underscored: true\n    });\n\n  role.associate = function (models) {\n    &#x2F;&#x2F; 角色表包含管理员\n    role.hasMany(models[&quot;admin&quot;], {\n      foreignKey: &quot;by_role&quot;,\n      constraints: false\n    });\n    &#x2F;&#x2F; 角色表包含api_role表\n    role.belongsToMany(models[&quot;api&quot;], {\n      through: {\n        model: &quot;api_role&quot;,\n        unique: false\n      },\n      foreignKey: &quot;role_id&quot;,\n      otherKey: &quot;api_id&quot;,\n      constraints: false\n    });\n    &#x2F;&#x2F; 角色表包含menu_role表\n    role.belongsToMany(models[&quot;menu&quot;], {\n      through: {\n        model: &quot;menu_role&quot;,\n        unique: false\n      },\n      foreignKey: &quot;role_id&quot;,\n      otherKey: &quot;menu_id&quot;,\n      constraints: false\n    });\n  };\n\n  return role;\n};\n\n</code></pre><p>Api接口模型</p>\n<pre class=\"prettyprint language- javascript\"><code>module.exports = function (sequelize, DataTypes) {\n  const api = sequelize.define(&quot;api&quot;,\n    {\n      id: {\n        field: &quot;id&quot;,                                    &#x2F;&#x2F; 别名\n        type: DataTypes.UUID,                           &#x2F;&#x2F; 类型\n        allowNull: true,\n        unique: true,                                   &#x2F;&#x2F; 是否是唯一值\n        comment: &quot;api接口字段ID&quot;,                        &#x2F;&#x2F; 简介说明\n        primaryKey: true,                               &#x2F;&#x2F; 是否为主键\n        defaultValue: DataTypes.UUIDV1\n      },\n      name: {\n        field: &quot;name&quot;,\n        type: DataTypes.STRING,\n        allowNull: false,\n        comment: &quot;api接口名称&quot;,\n        validate: {\n          notEmpty: true\n        }\n      },\n      method: {\n        field: &quot;method&quot;,\n        type: DataTypes.STRING,\n        allowNull: false,\n        comment: &quot;api接口访问类型&quot;,\n        validate: {\n          notEmpty: true\n        }\n      },\n      path: {\n        field: &quot;path&quot;,\n        type: DataTypes.STRING,\n        allowNull: false,\n        comment: &quot;api接口访问地址&quot;,\n        validate: {\n          notEmpty: true\n        }\n      },\n      desc: {\n        field: &quot;desc&quot;,\n        type: DataTypes.STRING,\n        allowNull: true,\n        comment: &quot;api接口内容简介&quot;\n      },\n      time: {\n        field: &quot;time&quot;,\n        type: DataTypes.DATE,\n        allowNull: false,\n        defaultValue: DataTypes.NOW\n      },\n      mark: {\n        field: &quot;mark&quot;,\n        type: DataTypes.BOOLEAN,\n        allowNull: false,\n        defaultValue: true\n      },\n      query_field: {\n        field: &quot;query_field&quot;,\n        type: DataTypes.TEXT,\n        allowNull: true,\n        comment: &quot;api接口请求参数配置&quot;\n      },\n      success_resource: {\n        field: &quot;success_resource&quot;,\n        type: DataTypes.TEXT,\n        allowNull: true,\n        comment: &quot;api接口请求成功参数配置&quot;\n      },\n      error_resource: {\n        field: &quot;error_resource&quot;,\n        type: DataTypes.TEXT,\n        allowNull: true,\n        comment: &quot;api接口请求失败参数配置&quot;\n      }\n    }, {\n      timestamps: true,                &#x2F;&#x2F; 创建createAt、updateAt字段\n      underscored: true,               &#x2F;&#x2F; 将字段名按照下划线命名\n      freezeTableName: true,           &#x2F;&#x2F; 不允许自动更换表明\n      tableName: &quot;api&quot;,                 &#x2F;&#x2F; 表名\n      &#x2F;* hooks: {\n        beforeBulkCreate: (api) =&gt; {\n          console.log(api);\n        }\n      } *&#x2F;\n    }\n    &#x2F;&#x2F; api表包含api_role表\n  );\n  api.associate = function (models) {\n    &#x2F;&#x2F; api表包含role\n    api.belongsToMany(models[&quot;role&quot;], {\n      through: {\n        model: &quot;api_role&quot;,\n        unique: false\n      },\n      foreignKey: &quot;api_id&quot;,\n      otherKey: &quot;role_id&quot;,\n      constraints: false\n    });\n  };\n  return api;\n}\n</code></pre><p>用户角色表\n<img src=\"//static.cnodejs.org/Fgroh3R5fI4PD_kBeL9-ZIXoGYhU\" alt=\"role.png\"><br>\nApi接口表\n<img src=\"//static.cnodejs.org/FiY-_bN-gq1qzMAHcohCkhQMnpwJ\" alt=\"apix.png\">\n关联表\n<img src=\"//static.cnodejs.org/Fv3wtZviWJlkMxr97DRs6iGiSihP\" alt=\"api.png\"><br>\n这边的需求是，删除用户角色表的数据，同时删除关联表的数据，不知道如何实现，请教一下cnode的各位，谢谢</p>\n</div>",
+            "title": "Sequelize 关联删除问题",
+            "last_reply_at": "2018-11-30T01:23:19.695Z",
+            "good": false,
+            "top": false,
+            "reply_count": 4,
+            "visit_count": 345,
+            "create_at": "2018-11-28T10:39:06.056Z",
+            "author": {
+                "loginname": "zhang962976642",
+                "avatar_url": "https://avatars1.githubusercontent.com/u/16224118?v=4&s=120"
+            }
+        },
+        {
+            "id": "5bfe897cbe1b120abac5de0a",
+            "author_id": "5ab1e8e8e7b166bb7b9ecca9",
+            "tab": "ask",
+            "content": "<div class=\"markdown-text\"><p>有没有人来科普一下，node在高并发，大数据，分布式，微服务这方面的实际应用情景</p>\n</div>",
+            "title": "有没有人来科普一下，node在高并发，大数据，分布式，微服务这方面的实际应用情景",
+            "last_reply_at": "2018-11-30T01:21:17.161Z",
+            "good": false,
+            "top": false,
+            "reply_count": 8,
+            "visit_count": 696,
+            "create_at": "2018-11-28T12:26:36.069Z",
+            "author": {
+                "loginname": "1134506391",
+                "avatar_url": "https://avatars2.githubusercontent.com/u/30287598?v=4&s=120"
+            }
+        },
+        {
+            "id": "5c008d17be1b120abac5e5b2",
+            "author_id": "5976b9b80c87675e74674819",
+            "tab": "ask",
+            "content": "<div class=\"markdown-text\"><p>直接上代码，代码如下：\nlet isFirst1 = 1;\nsockets.forEach((socket)=&gt;{\nif(isFirst1 == 1) {\n<a href=\"http://lightLog.info\">lightLog.info</a>(‘推送计算结果bonus事件’,dataArr);\nsocket.emit(‘bonus1’,dataArr,function(data) {\n<a href=\"http://lightLog.info\">lightLog.info</a>(‘qqqqqq’);\nif(data.length) {\n<a href=\"http://lightLog.info\">lightLog.info</a>(‘向聊天室推送的内容消息为：’,dataArr);\n}else{\n<a href=\"http://lightLog.info\">lightLog.info</a>(‘推送的内容内容为空’);\n}\n});\n// socket.broadcast.emit(‘bonus1’,dataArr);\nisFirst1 = 0;\n}else{\n<a href=\"http://lightLog.info\">lightLog.info</a>(‘不推送数据’);\n}\n});\n代码的目的是想实现只推送一次，但是现在的问题是，当使用isFirst1标志的时候，只发送给自己，不广播事件，这个时候事件发不出去，当把isFirst1标志去掉的时候，就可以，但是这个时候就会推送多次，请问如果我只想推送一次，应该来怎么做呢？？？</p>\n</div>",
+            "title": "socket使用求助",
+            "last_reply_at": "2018-11-30T01:06:31.970Z",
+            "good": false,
+            "top": false,
+            "reply_count": 0,
+            "visit_count": 171,
+            "create_at": "2018-11-30T01:06:31.970Z",
+            "author": {
+                "loginname": "quanpf2481",
+                "avatar_url": "https://avatars3.githubusercontent.com/u/30330930?v=4&s=120"
+            }
+        },
+        {
+            "id": "5bf28a10e6481c5709f5d3b9",
+            "author_id": "5b4fdf5faef62f1b0f9e0434",
+            "tab": "ask",
+            "content": "<div class=\"markdown-text\"><p>我遇到了这样一个问题,：\n\t在爬取http://www.marinetraffic.com 这个网站的过程中，发现 有反爬虫机制，尝试了代理ip等方式都失败了。\n\t最后发现是因为这个网站会对机器生成一个机器指纹，限制访问频率：如下图:\n\t<img src=\"//static.cnodejs.org/FlgQAj_nRGqHwx3FKyTtWT4MZVdB\" alt=\"image.png\">\n\t然后我就在这个网站的js文件里翻这个fingerprint的生成函数，然后我找到了这个：\n\t<img src=\"//static.cnodejs.org/Fmnr6rK5ZHcNHHuKbA-NM57EGYo7\" alt=\"image.png\">\n\t然后我在调试这个函数的时候发现，这个函数生成的Fingerprint和最后传给服务器的并不一样,传递给服务器的指纹如下图：\n\t<img src=\"//static.cnodejs.org/Fsu-UnUgHpCX3uGASwuR3e7_Wctb\" alt=\"image.png\">\n\t但是这个函数生成的只是一串数字，\n\t有没有大牛有好的方法呢？</p>\n</div>",
+            "title": "如何破译前端代码？",
+            "last_reply_at": "2018-11-29T14:58:55.683Z",
+            "good": false,
+            "top": false,
+            "reply_count": 5,
+            "visit_count": 818,
+            "create_at": "2018-11-19T10:01:52.617Z",
+            "author": {
+                "loginname": "assmdx",
+                "avatar_url": "https://avatars2.githubusercontent.com/u/19722693?v=4&s=120"
+            }
+        },
+        {
+            "id": "5bff5331d6104a4f803a2a8b",
+            "author_id": "5a924b1e71327bb413bbfe26",
+            "tab": "ask",
+            "content": "<div class=\"markdown-text\"><p>想配置eslint 使代码规范点， 但是看到了配置实在太多。</p>\n</div>",
+            "title": "eslint 规则太多，大家都是怎么配置呢？",
+            "last_reply_at": "2018-11-29T13:11:19.666Z",
+            "good": false,
+            "top": false,
+            "reply_count": 4,
+            "visit_count": 443,
+            "create_at": "2018-11-29T02:47:13.239Z",
+            "author": {
+                "loginname": "six-666",
+                "avatar_url": "https://avatars0.githubusercontent.com/u/36760287?v=4&s=120"
+            }
+        },
+        {
+            "id": "5bff608cd6104a4f803a2aef",
+            "author_id": "5bee8e70be1b120abac5a29a",
+            "tab": "ask",
+            "content": "<div class=\"markdown-text\"><h3>场景</h3>\n<p>本人用三种方式链接数据库：</p>\n<blockquote>\n<ul>\n<li>第一种：使用<code>.connect()</code> <code>.end()</code>。连续请求，第一次可以，后面就时好时坏</li>\n<li>第二种：不使用 <code>.connect()</code> <code>.end()</code>。连续请求，所有请求正常，<a href=\"https://github.com/mysqljs/mysql#establishing-connections\">参考</a> 文档中有句话However, a connection can also be implicitly established(隐式链接) by invoking a query. 为啥隐式链接就ok？</li>\n<li>第三种：使用链接池 <code>mysql.createPool()</code>。连续请求，所有请求正常</li>\n</ul>\n</blockquote>\n<p>查了各种资料，在GitHub上也遇到了同样的这个问题， <a href=\"https://github.com/mysqljs/mysql/issues/1166\">issues</a> 虽然知道用连接池和隐式链接就ok，但是还想搞清楚。并且如何用第一种使用<code>.connect()</code> <code>.end()</code>达到连续请求而不报错</p>\n<pre class=\"prettyprint language-javascript\"><code>var mysql      = require(&#x27;mysql&#x27;);\n&#x2F;&#x2F; 第一种 使用 .connect() .end()\nvar connection = mysql.createConnection({\n &#x2F;&#x2F; 各种设置\n})\n...\nconnection.connect()\nconnection.query(sql, function (error, results, fields) {\n &#x2F;&#x2F; 查询后处理的代码\n})\nconnection.end()\n...\n\n&#x2F;&#x2F; 第二种 不使用 .connect() .end()\nvar connection = mysql.createConnection({\n &#x2F;&#x2F; 各种设置\n})\n...\nconnection.query(sql, function (error, results, fields) {\n &#x2F;&#x2F; 查询后处理的代码\n})\n...\n\n&#x2F;&#x2F; 第三种 使用链接池\nvar pool = mysql.createPool({\n &#x2F;&#x2F; 各种设置\n})\n...\npool.getConnection(function (err, connection) {\n  connection.query(sql, function (error, results, fields) {\n    connection.release();\n    &#x2F;&#x2F; 查询后处理的代码\n  })\n});\n...\n\n</code></pre></div>",
+            "title": "关于node mysql 链接数据库问题？",
+            "last_reply_at": "2018-11-29T10:12:08.670Z",
+            "good": false,
+            "top": false,
+            "reply_count": 6,
+            "visit_count": 319,
+            "create_at": "2018-11-29T03:44:12.082Z",
+            "author": {
+                "loginname": "fengjiahao",
+                "avatar_url": "https://avatars1.githubusercontent.com/u/19339706?v=4&s=120"
+            }
+        },
+        {
+            "id": "5bffa6d0d6104a4f803a2da4",
+            "author_id": "58d866b86f8b9bf02d1d0b20",
+            "tab": "share",
+            "content": "<div class=\"markdown-text\"><p>前阵子想连接服务器上的ftp， 可 mac 没有win 方便。虽然mac 下 smb 也挺方便， 但是 阿里云的服务商，把 smb 445的端口给封了，win 连不了。\n终端下面其实可以用 lftp, 但我依然找了下， node 如何连接 ftp。 然后清一色的推荐 node-ftp. 我就拉下来用， 发现不是特别好用。\n有延迟，不管是连接还是操作，都需要延迟十几秒。</p>\n<p>看源码，就看到了这句话</p>\n<pre class=\"prettyprint\"><code>var Socket = require(&#x27;net&#x27;).Socket\n</code></pre><p>ojbk， 原来是用Socket 连的， 说实话，我不知道socket 是个啥玩意。\n然后我潜意识的就打开终端  输入</p>\n<pre class=\"prettyprint\"><code>telnet ip 21\n</code></pre><p>然后 我就 我就看到了这句话， 220 Welcome to blah FTP service. 以及 530 Please login with USER and PASS.\n然后 我就 找到了这篇文章。 <a href=\"https://blog.csdn.net/nowhere_/article/details/44877439\">https://blog.csdn.net/nowhere_/article/details/44877439</a>\n然后 我在看看源码，发现 其实 node 的socket 应该也是调用和 telnet 一样的方式 连接 服务器的。\n然后 就大刀阔斧的改源码。 又觉得该别人的东西不好，而且这个东西 好多我用不到的东西。\n然后 我就自己撸了一个\n关键代码 只有</p>\n<pre class=\"prettyprint\"><code>this.socket.connect(this.options.port, this.options.host) &#x2F;&#x2F; 连接\nthis.socket.write(cmd) &#x2F;&#x2F; cmd 和 telnet输入的一样， 比如 USER name  ， PASS pass \nthis.socket.on(&#x27;data&#x27;, callback) &#x2F;&#x2F; 以及监听回调  间听到返回的code  再执行其他操作就好\n</code></pre><p>挺简单的</p>\n<p>不用这个模块的原因是\n我的ftp默认是被动连接， 可代码默认的是主动连接， 所以每次要等十几秒。 （也许代码有参数配置， 我没细看，）</p>\n</div>",
+            "title": "node 连接ftp 服务器",
+            "last_reply_at": "2018-11-29T08:44:00.660Z",
+            "good": false,
+            "top": false,
+            "reply_count": 0,
+            "visit_count": 214,
+            "create_at": "2018-11-29T08:44:00.660Z",
+            "author": {
+                "loginname": "wjiban",
+                "avatar_url": "https://avatars3.githubusercontent.com/u/23730727?v=4&s=120"
+            }
+        },
+        {
+            "id": "56f55f1da54df2e06e6435b9",
+            "author_id": "54a610514d2e86d10775b4f5",
+            "tab": "ask",
+            "content": "<div class=\"markdown-text\"><p>node版本：5.7\nexpress版本：4.13.4</p>\n<p>在express中使用mount-app。\n在一个主app上挂载两个app，一个admin 、一个index，移动端服务放置在index上。\n主app没有使用任何中间件，index上使用express-session中间件来管理session。将session保存到本地的redis上。</p>\n<p>在开发、测试阶段，session存/取数据都很正常，但在线上时，服务的pv量也不是很多，大概一小时6000左右，但是session得取值出现了问题，session在取值时，取到了别的缓存中的值，但不是固定的，取得值是来回变化的。</p>\n<p>然后停掉线上服务器，在线上调试了下，发现在少数链接的情况下是无法复现的。</p>\n<p>现在排除了一些问题：\n1、逻辑代码写错，session的操作没有写错。\n2、session的id经测试，不会出现重复的情况。\n3、session的中间件没有问题。</p>\n<p>我现在怀疑的问题：\n1、nodejs 5.7版本的req池的问题，导致链接数变多的时候，req分配错误。</p>\n<p>不知道有没有遇到过类似的问题。\n望各位大神解答，谢谢</p>\n</div>",
+            "title": "遇到一个奇怪问题，关于获取session值混乱的问题",
+            "last_reply_at": "2018-11-29T07:42:56.463Z",
+            "good": false,
+            "top": false,
+            "reply_count": 1,
+            "visit_count": 2489,
+            "create_at": "2016-03-25T15:54:05.698Z",
+            "author": {
+                "loginname": "dreamllq",
+                "avatar_url": "https://avatars.githubusercontent.com/u/6227563?v=3&s=120"
+            }
+        },
+        {
+            "id": "5bff8992d6104a4f803a2c3c",
+            "author_id": "5a0d348fe2f4b8ea22496498",
+            "tab": "share",
+            "content": "<div class=\"markdown-text\"><p>本文为 《使用 EOLINKER 进行接口测试的最佳路径》 下半部分文章，主要介绍测试脚本如何执行和报告生成，以及测试项目人员如何协作。还没看过上篇文章请戳\n<a href=\"https://cnodejs.org/topic/5bfbbb95d6104a4f803a1ace\">使用 EOLINKER 进行接口测试的最佳路径（上）</a></p>\n<h3>本文内容</h3>\n<ol>\n<li>测试脚本执行及报告：讲述如何在 EOLINKER 上执行接口测试脚本，及如何查看和下载测试报告。</li>\n<li>测试项目人员协作：讲述如何在 EOLINKER 上进行多人的测试项目协作。</li>\n</ol>\n<h3>1.测试脚本执行及报告</h3>\n<h4>1. 测试用例执行</h4>\n<p>EOLINKER 的测试用例执行分两种：【用例集列表测试执行】 和 【单例列表测试执行】；</p>\n<p>先来看下在 【用例集列表测试执行】</p>\n<p><strong>图中标示1说明</strong></p>\n<ul>\n<li>测试全部-并行：表示并行执行用例集列表中所有的用例集</li>\n<li>测试全部-串行：表示并行执行用例集列表中所有的用例集</li>\n</ul>\n<p><strong>图中标示2说明</strong></p>\n<ul>\n<li>用例集列表操作按钮-测试：表示只执行该条用例集。</li>\n</ul>\n<p><img src=\"//static.cnodejs.org/FndOJR7WFVCy1Ihm2mzTz3iF4t2S\" alt=\"测试项目模块管理/用例集列表页面\"></p>\n<p>测试项目模块管理/用例集列表页面</p>\n<p>再来看下，在 【单例列表中测试执行】</p>\n<p><strong>图中标示1说明</strong></p>\n<ul>\n<li>测试全部：表示执行单例列表下所有的单个用例。</li>\n</ul>\n<p><strong>图中标示2说明</strong></p>\n<ul>\n<li>单例列表操作按钮-测试：表示只执行该条单个用例。</li>\n</ul>\n<p><img src=\"//static.cnodejs.org/Fk_ohNRrRZ_XL2K2UEcCCIbBmlFk\" alt=\"i单例列表页面\">\n单例列表页面</p>\n<h4>2. 测试报告查看</h4>\n<p><strong>1.执行用例集列表测试全部后的测试报告，可以查看：</strong></p>\n<ul>\n<li>所有用例集执行完的总耗时</li>\n<li>成功率</li>\n<li>单个用例测试结果及测试耗时</li>\n</ul>\n<p><img src=\"//static.cnodejs.org/FqpL1OYDTmtwhCzY1HVjhjXO8VaP\" alt=\"执行用例集列表测试全部后的测试报告\">\n执行用例集列表测试全部后的测试报告</p>\n<p><strong>2.执行用例集列表操作按钮-测试后的测试报告，可以查看：</strong></p>\n<ul>\n<li>前置用例测试结果;</li>\n<li>当前用例集执行完的总耗时;</li>\n<li>单个用例测试结果及测试耗时;</li>\n<li>请求信息和请求头部信息;</li>\n<li>返回信息和返回头部信息;</li>\n<li>返回头部校验规则;</li>\n<li>返回结果校验规则;</li>\n<li>实际返回;</li>\n<li>如果测试失败，会显示失败原因信息;</li>\n</ul>\n<p><img src=\"//static.cnodejs.org/Fp4VXckUKHfEqzVj6F-Oa4oZEtxi\" alt=\"image (11).png\">\n执行用例集列表操作按钮-测试后的测试报告</p>\n<p><strong>3.执行单例列表的测试全部后的测试报告，和执行用例集列表操作按钮-测试后的测试报告一样</strong></p>\n<p><strong>4.执行单例列表操作按钮-测试后的测试报告，可以查看：</strong></p>\n<ul>\n<li>请求信息和请求头部信息</li>\n<li>返回信息和返回头部信息</li>\n<li>返回头部校验规则</li>\n<li>返回结果校验规则</li>\n<li>实际返回</li>\n<li>如果测试失败，会显示 失败原因信息</li>\n</ul>\n<p><img src=\"//static.cnodejs.org/Fmoz0KPwATN9SCM48hYrWTHv0rVI\" alt=\"image (12).png\">\n执行单例列表操作按钮-测试后的测试报告</p>\n<h4>3. 定时执行</h4>\n<p>回顾前面说的：如果你想指定一批测试用例脚本在你设定的时间自动跑，并把测试结果发送到你指定的邮箱，这个需要升级到企业版本才能用，如果你已经拥有企业版本，你可以打开  <strong>定时任务</strong> 页面先行查看。</p>\n<p>定时执行，我们可以添加测试用例在指定的时间执行，并把测试结果发送到你指定的邮箱。</p>\n<p><img src=\"//static.cnodejs.org/FlmuqX14jD-W4rqEBEsB-zaIN-j1\" alt=\"wechat定时任务1.gif\">\n定时执行测试用例</p>\n<h4>4. 测试报告下载</h4>\n<p>在用例集页面，执行测试全部后，点 <strong>【下载测试报告】</strong> ，下载自己要下的报告，报告格式是 HTML 的。</p>\n<p><img src=\"//static.cnodejs.org/FgJa4vw6M57vuVhW7CgzX6CVPARm\" alt=\"cnodejs下载.jpg\">\n下载测试报告</p>\n<h3>2.人员协作</h3>\n<p>人员协作适用于多人协作的工作模式，这个时候需要对不同的角色分配不同的权限进行管理。</p>\n<h4>1.免费版：这里我们可以设置只读/ 读写/ 项目负责人等权限</h4>\n<ul>\n<li>只读：只能查看项目内容，不可编辑。</li>\n<li>读写：可以查看项目内容，可以编辑。</li>\n<li>项目负责人：可以可以查看项目内容，可以编辑，可以对人员权限进行管理。</li>\n</ul>\n<p><img src=\"//static.cnodejs.org/FrSOOeJa9F3s-aFq4vD_HnFlNDb8\" alt=\"添加协作人员.gif\">\n免费版添加协作人员</p>\n<h4>2.企业版：在这个版本里，我们可以对所有成员进行自定义角色的权限分配</h4>\n<p><img src=\"//static.cnodejs.org/FqdEu4tvBZ4xKUh68QjbCmM2Ir8n\" alt=\"image (13).png\">\n企业版，自定义角色</p>\n<h3>本文总结</h3>\n<p>本文主要是介绍怎么用 EOLINKER 执行测试脚本和如何获取测试报告，以及如何进行多人的协作，结合上篇文章介绍的如何设计项目目录结构，如何编写接口测试脚本，统一起来就构成了一个完整的接口测试项目架构。简而言之，EOLINKER 在手，测试不愁。</p>\n</div>",
+            "title": "使用 EOLINKER 进行接口测试的最佳路径 (下)",
+            "last_reply_at": "2018-11-29T06:39:14.375Z",
+            "good": false,
+            "top": false,
+            "reply_count": 0,
+            "visit_count": 237,
+            "create_at": "2018-11-29T06:39:14.375Z",
+            "author": {
+                "loginname": "wardennn",
+                "avatar_url": "https://avatars0.githubusercontent.com/u/33686934?v=4&s=120"
+            }
+        },
+        {
+            "id": "5bf7c7056718ed3ca074c30f",
+            "author_id": "51d37c80d44cbfa304285441",
+            "tab": "ask",
+            "content": "<div class=\"markdown-text\"><p>问题一： 微信的扫码登录需要引入一个js资源，<code>http://res.wx.qq.com/connect/zh_CN/htmledition/js/wxLogin.js</code>\n这个在react 内怎么引入？\n在index.html 内？如果我想在某个组件给调用的时候才引入，该怎么办？不会是</p>\n<pre class=\"prettyprint\"><code>class WechatLogin extends PureComponent {\n  render() {\n\t  return ( \n\t\t&lt;&gt; \n\t\t  &lt;script src=&quot;http:&#x2F;&#x2F;res.wx.qq.com&#x2F;connect&#x2F;zh_CN&#x2F;htmledition&#x2F;js&#x2F;wxLogin.js&quot; &#x2F;&gt;\n\t\t  &lt;div id=&#x27;wechatLogin&#x27;&gt; test&lt;&#x2F;div&gt;\n\t\t&lt;&#x2F;&gt;\n\t  )\n  }\n}\n</code></pre><p>问题二：微信的扫码登录中需要</p>\n<pre class=\"prettyprint\"><code>new WxLogin({\n  id: &quot;wechatLogin&quot;, \n  appid: config.wechatAppid, \n  scope: &quot;snsapi_login&quot;, \n  redirect_uri: &quot;#{Config.api.gicWechat}&#x2F;base&#x2F;getUserForWebapp&quot;,\n  state,\n  style: &quot;&quot;,\n  href: &quot;&quot;\n })\n</code></pre><p>这个应该写什么地方？ PureComponent 的类里面？componentDidMount() 里面？</p>\n<p>找了半天还是没有找到类似的Demo，有的大神求分享一下。</p>\n</div>",
+            "title": "有react 的 微信扫码登录的Dome吗？",
+            "last_reply_at": "2018-11-29T05:25:21.661Z",
+            "good": false,
+            "top": false,
+            "reply_count": 5,
+            "visit_count": 557,
+            "create_at": "2018-11-23T09:23:17.483Z",
+            "author": {
+                "loginname": "thomas0836",
+                "avatar_url": "https://avatars2.githubusercontent.com/u/3435615?v=4&s=120"
+            }
+        },
+        {
+            "id": "5bfc0030be1b120abac5d102",
+            "author_id": "5a924b1e71327bb413bbfe26",
+            "tab": "ask",
+            "content": "<div class=\"markdown-text\"><p>在做移动端项目，想要的效果是浏览文章列表当进入详情页面时再返回应该还是之前的滚动位置。</p>\n<p>貌似没有一个很好的解决方案？</p>\n</div>",
+            "title": "react有没办法做到后退不刷新？",
+            "last_reply_at": "2018-11-29T03:54:40.150Z",
+            "good": false,
+            "top": false,
+            "reply_count": 9,
+            "visit_count": 626,
+            "create_at": "2018-11-26T14:16:16.200Z",
+            "author": {
+                "loginname": "six-666",
+                "avatar_url": "https://avatars0.githubusercontent.com/u/36760287?v=4&s=120"
+            }
+        },
+        {
+            "id": "5bfcab7abe1b120abac5d258",
+            "author_id": "5acd78cb042a804dc5196851",
+            "tab": "ask",
+            "content": "<div class=\"markdown-text\"><p><img src=\"//static.cnodejs.org/FnTzBa4MAZxoG90WniM2AKUb1qed\" alt=\"image.png\">\n<img src=\"//static.cnodejs.org/FvlwTn1nLk_qV7JI5Zp9IFghRyAh\" alt=\"image.png\">\n<img src=\"//static.cnodejs.org/FlAyxHNaYsolI21s5hoSrKYffm4O\" alt=\"image.png\"></p>\n</div>",
+            "title": "express使用jwt的时候，user_Id 如何传递到每一个controller里？",
+            "last_reply_at": "2018-11-29T03:06:11.773Z",
+            "good": false,
+            "top": false,
+            "reply_count": 4,
+            "visit_count": 443,
+            "create_at": "2018-11-27T02:27:06.561Z",
+            "author": {
+                "loginname": "miuqiang",
+                "avatar_url": "https://avatars2.githubusercontent.com/u/19277011?v=4&s=120"
+            }
+        },
+        {
+            "id": "5ac478e10ab0448f0fe3f86d",
+            "author_id": "5ac3a5a437f5d1510f57c88d",
+            "tab": "ask",
+            "content": "<div class=\"markdown-text\"><p>react.js 入门真心难，太多步骤太多东西要记了</p>\n</div>",
+            "title": "React入门真难",
+            "last_reply_at": "2018-11-29T01:19:03.716Z",
+            "good": false,
+            "top": false,
+            "reply_count": 92,
+            "visit_count": 11554,
+            "create_at": "2018-04-04T07:04:01.663Z",
+            "author": {
+                "loginname": "15766273878",
+                "avatar_url": "https://avatars0.githubusercontent.com/u/37205147?v=4&s=120"
+            }
+        },
+        {
+            "id": "5bfb5099be1b120abac5cb7d",
+            "author_id": "51d37c80d44cbfa304285441",
+            "tab": "ask",
+            "content": "<div class=\"markdown-text\"><p>情况是这样的，在本地开发的时候使用<code>npm run dev</code> （npx sequelize db:migrate &amp;&amp; egg-bin dev） 启动都是1到3秒左右，在本地使用<code>npm start</code> （egg-scripts start --daemon --title=test --env prod）也是这个时间。\n但是在服务器上却跑到 89+ （[egg-scripts] Wait Start: 89…）才启动到……</p>\n<p>本地是 node/9.11.2, npm 5.6.0\n服务器 node/11.2.0, npm 6.4.1</p>\n<p>除了 node的版本问题，还会有什么问题影响</p>\n</div>",
+            "title": "egg.js 在服务器启动慢的原因是什么？",
+            "last_reply_at": "2018-11-29T01:13:21.027Z",
+            "good": false,
+            "top": false,
+            "reply_count": 24,
+            "visit_count": 589,
+            "create_at": "2018-11-26T01:47:05.677Z",
+            "author": {
+                "loginname": "thomas0836",
+                "avatar_url": "https://avatars2.githubusercontent.com/u/3435615?v=4&s=120"
+            }
+        },
+        {
+            "id": "5b71094eb71aedfe4c12692b",
+            "author_id": "59e40e1620a1a3647d72ac43",
+            "tab": "ask",
+            "content": "<div class=\"markdown-text\"><pre class=\"prettyprint\"><code>    Promise.all([this.translateEnglishPronounce(sentence), baiduAudioCompond(sentence_translate)]).then(async (res) = {\n                        if (!res) { throw TypeError(&quot;To makes audio that the type not have response.&quot;) }\n                        const [senAudioBuf, SenTraAudioBuf] = res;\n                        const isEndSentence = i === maxSentenceNum - 1;\n                        sentences = Buffer.concat([sentences, senAudioBuf, SenTraAudioBuf])\n\n                        fs.writeFileSync(path.join(__dirname,&quot;word.mp3&quot;), senAudioBuf); \n                        fs.writeFileSync(path.join(__dirname,&quot;trans.mp3&quot;), SenTraAudioBuf);\n\n                        decodeToAudioBuff(Buffer.concat([SenTraAudioBuf, senAudioBuf])).then((audioBuff) =&gt; {\n                            fs.writeFileSync(path.join(__dirname,&quot;ttt.mp3&quot;), audioBuff );\n                        })\n</code></pre><p>上面代码是请求google(word.mp3)和百度(trans.mp3)的语音接口他们都返回 mp3/mpeg 格式的数据，我单独存储两个接口返回的数据为mp3文件时，单独播放都是有正确内容的.</p>\n<p>可问题是，使用 Buffer.concat 拼接两个buffer出现了文件大小叠加上去，但是播放出来的却只有Google的接口的声音(ttt.mp3)。令我百思不得其解啊。我需要怎样转换这里的编码？</p>\n</div>",
+            "title": "拼接 Buffer 生成 mp3文件，可能由于编码问题造成的丢失.",
+            "last_reply_at": "2018-11-28T23:59:16.627Z",
+            "good": false,
+            "top": false,
+            "reply_count": 8,
+            "visit_count": 757,
+            "create_at": "2018-08-13T04:30:06.579Z",
+            "author": {
+                "loginname": "TongDaDa",
+                "avatar_url": "https://avatars1.githubusercontent.com/u/23241188?v=4&s=120"
+            }
+        },
+        {
+            "id": "5b44291035342ab0690613d6",
+            "author_id": "5b37500b5c8f1ea723a56b2b",
+            "tab": "share",
+            "content": "<div class=\"markdown-text\"><p>Electron是一个跨平台的桌面应用开发框架，可以让我们用html css js的技术开发跨平台桌面上可以安装的软件。</p>\n<p><strong>前4讲免费试听地址：</strong></p>\n<p><a href=\"https://pan.baidu.com/s/1Dol4tP6Jop6MXro0ULVapQ\">https://pan.baidu.com/s/1Dol4tP6Jop6MXro0ULVapQ</a></p>\n<p>electron Github的 star已经达到61957，那么他的<strong>用户量可能已经有100万了</strong>。还有大家知道的github的atom编辑器、微软的vscode编辑器，包括阿里内部的一些软件也是用 electron 开发的。既然这么热，<strong>那就一个字：学</strong>，大家都在学，你不学（有没有压力啊！！！）</p>\n<p><strong>28元购买地址</strong>:<a href=\"https://www.itying.com/goods-929.html\">https://www.itying.com/goods-929.html</a></p>\n<p><img src=\"//static.cnodejs.org/FqbpQ7iHRMdMdSrEGLD_xpe4CabH\" alt=\"1.png\"></p>\n</div>",
+            "title": "Electron视频教程_Electron+Vue跨平台桌面软件开发视频教程（收费啊--不贵一包烟钱-有试听）",
+            "last_reply_at": "2018-11-28T13:51:59.221Z",
+            "good": false,
+            "top": false,
+            "reply_count": 29,
+            "visit_count": 5289,
+            "create_at": "2018-07-10T03:33:36.227Z",
+            "author": {
+                "loginname": "it-ionic",
+                "avatar_url": "https://avatars1.githubusercontent.com/u/17946554?v=4&s=120"
+            }
+        },
+        {
+            "id": "5bfbcfb0be1b120abac5d038",
+            "author_id": "5bfbcc20be1b120abac5d01e",
+            "tab": "ask",
+            "content": "<div class=\"markdown-text\"><p>比如我有好几个异步任务，每个任务都含有诸多io操作（http请求啊，数据库查询啊之类的）这些io都存在一定的瓶颈，那么我应该每个任务都用await来控制流程一个一个来，还是说用Promise.all并行处理？\n现实场景是这样的，我有一个凌晨执行的统计任务，该任务又包含若干个会发起一定数量（几千http请求和几千数据库查询操作）的没有关联的小任务，那么我如果一次把这几个任务压入队列中并行处理的数据库和内存压力和程序里用await一个一个执行的压力是否差别很大。</p>\n</div>",
+            "title": "是否并行处理需要考虑数据库和内存压力吗",
+            "last_reply_at": "2018-11-28T11:54:44.743Z",
+            "good": false,
+            "top": false,
+            "reply_count": 12,
+            "visit_count": 585,
+            "create_at": "2018-11-26T10:49:20.550Z",
+            "author": {
+                "loginname": "Mr-Dolphin",
+                "avatar_url": "https://avatars2.githubusercontent.com/u/20177234?v=4&s=120"
+            }
+        },
+        {
+            "id": "5bed5968a05b0e0ae443b9ac",
+            "author_id": "5b03c9a7000332b81cf821a5",
+            "tab": "ask",
+            "content": "<div class=\"markdown-text\"><p>语句如下，其中shop_id建立了索引，扫描行数712127行：\nselect\nid,\nmaterial_id,\ncnt,\nstock_cnt,\nstatus,\ntype,\ngmt_deadline,\nsale_type,\ngmt_gen\nfrom\n<code>stock_count</code> t\nwhere\n<code>t</code>.<code>shop_id</code> = '330547’\nand   <code>t</code>.<code>brand_id</code> = '100148’\nand <code>t</code>.<code>status</code> in (0, 2)\nand <code>t</code>.<code>is_init</code> = 0\nand <code>t</code>.<code>type</code> in (2, 1, 3)\nand <code>t</code>.<code>sale_type</code> in (0, 1)\norder by\n<code>id</code> desc\nLIMIT\n0, 1</p>\n</div>",
+            "title": "mysql,一条sql单独执行耗时500ms，批量50条一起执行最慢的耗时5秒",
+            "last_reply_at": "2018-11-28T11:51:04.368Z",
+            "good": false,
+            "top": false,
+            "reply_count": 19,
+            "visit_count": 1261,
+            "create_at": "2018-11-15T11:32:56.161Z",
+            "author": {
+                "loginname": "linxiaoziruo",
+                "avatar_url": "https://avatars3.githubusercontent.com/u/6881273?v=4&s=120"
+            }
+        }
+    ]
+}

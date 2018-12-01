@@ -1,0 +1,67 @@
+{% extends "base.html" %}
+
+{% block script %}
+<script>
+    function showError(resp) {
+        resp.json().then(function (result) {
+            console.log('Error: ' + result.message);
+        });
+    }
+    $(function () {
+        var vm = new Vue({
+            el: '#app',
+            data: {
+                topics: [],
+            },
+            created: function () {
+                this.init();
+            },
+            methods: {
+                init: function () {
+                    var that = this;
+                    that.$resource('/api/v1/topics').get().then(function (resp) {
+                        resp.json().then(function (result) {
+                            that.topics = result.data;
+                        });
+                    }, function (resp) {
+                        showError(resp)
+                    })
+                },
+
+                getTopic: function (id) {
+                    var that = this;
+                    this.per = true;
+                    that.$resource('/api/v1/topic/' + id).get().then(function (resp) {
+                        resp.json().then(function (result) {
+                            that.topics = [result];
+                        });
+                    }, function (resp) {
+                        showError(resp);
+                    })
+                }
+            },
+
+        })
+        window.vm = vm;
+    })
+</script>
+{% endblock %}
+
+{% block main %}
+<div id="app">
+    <table>
+        <tr>
+            <th>title</th>
+            <th>visit</th>
+            <th>reply</th>
+        </tr>
+        <tr v-for="t in topics">
+            <td>{{ t.title }}</td>
+            <td>{{ t.visit_count }}</td>
+            <td>{{ t.reply_count }}</td>
+        </tr>
+    </table>
+</div>
+{% endblock %}
+
+</html>
